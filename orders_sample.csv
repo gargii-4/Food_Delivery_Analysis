@@ -1,0 +1,2061 @@
+order_id,user_id,restaurant_id,order_date,total_amount,restaurant_name
+1,4259,155,2023-08-17,1368.07,Amma Tiffins South Indian
+2,3455,237,2023-01-08,1795.26,Amma Restaurant South Indian
+3,1078,133,2023-08-02,1070.28,Spice Kitchen Punjabi
+4,3130,245,2023-08-14,145.97,Spice Mess Andhra
+5,2058,192,2023-05-10,762.09,Tandoori Junction
+6,1345,201,2023-06-23,818.65,Grand Cafe Punjabi
+7,3644,242,2023-06-14,1648.53,New Foods Chinese
+8,4162,139,2023-08-10,359.79,Amma Tiffins South Indian
+9,4952,249,2023-12-22,878.46,Bombay Spice Villa
+10,4777,187,2023-12-18,909.19,Udupi Curry House South Indian
+11,3598,158,2023-04-05,1416.63,Spice Mess Punjabi
+12,4024,294,2023-02-04,902.55,Darbar Mess Pure Veg
+13,4854,282,2023-08-05,823.48,Masala Trail Multicuisine
+14,1007,111,2023-09-11,607.79,Royal Eatery South Indian
+15,1418,211,2023-07-12,469.55,Royal Tiffins Multicuisine
+16,4205,267,2023-03-17,1530.76,Amma Delights Family Restaurant
+17,1294,149,2023-11-09,683.66,Sri Tiffins Andhra
+18,1188,177,2023-12-12,1024.82,FoodHub Express
+19,1330,267,2023-01-18,1564.83,Amma Tiffins South Indian
+20,1259,269,2023-04-13,1335.96,Biryani Brothers
+21,2167,107,2023-10-14,641.93,Ruchi Foods South Indian
+22,1997,243,2023-08-04,1581.13,Masala Trail Multicuisine
+23,2006,113,2023-10-08,1554.38,Chef’s Delight Kitchen
+24,2149,155,2023-02-25,320.28,New Cafe North Indian
+25,4249,205,2023-10-05,1520.68,Taste of Biryani Non-Veg
+26,4750,297,2023-01-16,963.35,Punjabi Zaika House
+27,3336,193,2023-05-04,1697.72,Sri Tiffins Andhra
+28,4770,267,2023-12-24,559.99,Ruchi Curry House Multicuisine
+29,3623,262,2023-12-23,262.93,Spice Mess Andhra
+30,4154,185,2023-10-14,1676.38,Royal Masala Point
+31,3815,179,2023-10-05,355.35,Royal Biryani North Indian
+32,1732,207,2023-12-20,1202.04,Chef’s Delight Kitchen
+33,3992,133,2023-10-09,111.56,Urban Biryani House
+34,4158,143,2023-08-01,1064.57,Amma Restaurant South Indian
+35,4053,284,2023-12-18,1304.1,Flavour Street Kitchen
+36,4335,240,2023-09-03,1080.99,Sri Tiffins Andhra
+37,1052,270,2023-08-02,836.55,Tandoori Junction
+38,1546,144,2023-08-05,836.49,Biryani Brothers
+39,2063,163,2023-10-12,258.98,Punjabi Zaika House
+40,3679,165,2023-06-17,1011.0,Spice Mess Punjabi
+41,4537,207,2023-12-25,1004.53,Spice Mess Punjabi
+42,3619,219,2023-04-06,1045.22,Masala Trail Multicuisine
+43,4030,240,2023-07-03,183.24,Royal Eatery South Indian
+44,3947,254,2023-06-26,672.51,Annapurna Kitchen Family Restaurant
+45,3622,193,2023-04-05,1147.89,Annapurna Kitchen Family Restaurant
+46,1370,161,2023-02-17,861.31,Ruchi Foods Chinese
+47,3459,285,2023-08-06,160.61,Chef’s Delight Kitchen
+48,1217,237,2023-11-27,1323.6,Royal Biryani North Indian
+49,2539,255,2023-01-17,1243.79,Royal Biryani North Indian
+50,3750,192,2023-12-16,1051.4,Sri Tiffins Andhra
+51,3323,127,2023-05-19,694.62,Ruchi Curry House Multicuisine
+52,4345,255,2023-10-22,1239.05,Darbar Delights South Indian
+53,3102,234,2023-09-11,1306.5,Bombay Spice Villa
+54,2455,180,2023-02-12,1271.76,Grand Cafe Punjabi
+55,4040,159,2023-05-10,1795.04,Masala Trail Multicuisine
+56,2657,178,2023-01-07,1156.28,New Foods Chinese
+57,3521,281,2023-12-02,209.72,Ruchi Foods Chinese
+58,2396,195,2023-09-15,1507.83,FoodHub Express
+59,2414,261,2023-05-12,170.98,Spice Mess Punjabi
+60,4810,144,2023-08-16,971.77,Darbar Mess Pure Veg
+61,3390,258,2023-04-19,1159.22,Biryani Brothers
+62,3286,225,2023-01-14,785.2,Darbar Mess Pure Veg
+63,3825,192,2023-08-14,915.05,Annapurna Tiffins South Indian
+64,2217,223,2023-11-09,1767.01,Amma Kitchen Punjabi
+65,3976,103,2023-11-09,1782.9,Punjabi Zaika House
+66,1260,231,2023-12-03,367.69,Annapurna Tiffins South Indian
+67,1943,204,2023-12-04,1186.17,Darbar Delights South Indian
+68,4112,116,2023-04-06,9928.81,Tandoori Junction
+69,3192,214,2023-09-20,7648.85,Punjabi Zaika House
+70,1104,250,2023-04-19,539.34,Spice Mess Punjabi
+71,3903,105,2023-12-10,983.9,Darbar Delights South Indian
+72,3125,143,2023-08-04,1005.04,Amma Biryani North Indian
+73,4704,174,2023-11-01,121.89,Spice Mess Andhra
+74,2043,184,2023-03-15,1508.46,Spice Kitchen Punjabi
+75,2120,232,2023-12-27,380.29,Punjabi Zaika House
+76,1038,280,2023-03-12,111.92,Chef’s Delight Kitchen
+77,1904,116,2023-12-18,1180.72,Ruchi Biryani Punjabi
+78,4437,162,2023-12-23,755.51,Ruchi Curry House Multicuisine
+79,4375,110,2023-10-20,1107.74,Amma Biryani North Indian
+80,2877,176,2023-05-12,1562.37,Ruchi Biryani Punjabi
+81,4987,144,2023-02-11,182.92,Sri Tiffins Andhra
+82,2274,141,2023-06-22,1307.27,Amma Restaurant South Indian
+83,2090,183,2023-03-11,1264.11,Bombay Spice Villa
+84,1735,136,2023-01-11,1292.09,Chef’s Delight Kitchen
+85,3717,197,2023-08-09,645.42,Ruchi Foods South Indian
+86,2249,110,2023-08-13,757.24,Royal Tiffins Multicuisine
+87,2015,110,2023-10-11,262.2,Swagath Cafe Multicuisine
+88,4504,206,2023-04-07,330.66,FoodHub Express
+89,4008,190,2023-01-22,1507.98,Spice Mess Punjabi
+90,1611,285,2023-02-15,1783.17,New Foods Chinese
+91,3674,129,2023-05-18,144.98,Ruchi Foods Chinese
+92,2024,288,2023-01-01,1498.0,Curry Kings Restaurant
+93,3941,152,2023-11-13,946.09,Royal Masala Point
+94,4840,177,2023-08-02,165.99,Amma Kitchen Punjabi
+95,3744,281,2023-12-02,952.19,Amma Restaurant South Indian
+96,3226,262,2023-01-13,486.09,Biryani Brothers
+97,2389,196,2023-03-16,1464.09,Punjabi Zaika House
+98,4269,219,2023-12-27,598.03,Curry Kings Restaurant
+99,2642,106,2023-02-09,542.15,Bombay Spice Villa
+100,2809,134,2023-10-12,845.15,Amma Tiffins South Indian
+101,3416,191,2023-07-10,383.39,Spice Mess Andhra
+102,2488,222,2023-10-02,1596.62,Ruchi Foods South Indian
+103,1031,230,2023-10-01,1328.45,Biryani Brothers
+104,2995,105,2023-12-23,1453.45,Urban Biryani House
+105,4800,210,2023-08-18,490.12,Ruchi Foods South Indian
+106,2185,255,2023-06-05,1306.15,Amma Tiffins South Indian
+107,1460,285,2023-10-20,1264.98,Bombay Spice Villa
+108,4714,127,2023-09-04,125.88,Spice Mess Andhra
+109,4381,214,2023-06-17,496.79,Sri Tiffins Andhra
+110,4880,152,2023-08-16,1477.11,Swagath Cafe Multicuisine
+111,1646,217,2023-06-27,606.13,Annapurna Kitchen Family Restaurant
+112,1970,173,2023-12-10,284.16,Amma Kitchen Punjabi
+113,1231,281,2023-05-21,975.83,Chef’s Delight Kitchen
+114,1254,174,2023-11-06,970.81,Ruchi Foods Chinese
+115,1773,236,2023-08-21,359.33,Chef’s Delight Kitchen
+116,1816,200,2023-12-27,463.18,Amma Kitchen Punjabi
+117,3713,275,2023-10-01,1694.78,Biryani Brothers
+118,2776,222,2023-04-11,1223.36,Swagath Cafe Multicuisine
+119,1373,163,2023-07-12,1018.71,Taste of Biryani Non-Veg
+120,2344,240,2023-01-08,371.83,Punjabi Zaika House
+121,3459,170,2023-08-19,955.87,Curry Kings Restaurant
+122,2903,275,2023-12-17,486.24,Tandoori Junction
+123,1750,297,2023-12-23,715.25,FoodHub Express
+124,3847,169,2023-05-15,1557.41,Bombay Spice Villa
+125,1614,233,2023-12-17,256.75,Biryani Brothers
+126,2185,105,2023-08-07,1021.66,Ruchi Foods South Indian
+127,1121,106,2023-05-27,1556.01,Amma Tiffins South Indian
+128,4102,204,2023-12-04,613.85,Bombay Spice Villa
+129,3207,127,2023-02-01,181.86,Royal Masala Point
+130,3417,117,2023-12-24,1698.91,Amma Kitchen Punjabi
+131,3985,195,2023-02-27,646.9,Amma Restaurant South Indian
+132,2309,106,2023-10-13,1679.07,Spice Mess Punjabi
+133,1395,274,2023-11-26,1663.54,Sri Tiffins Andhra
+134,2525,161,2023-06-17,987.15,Amma Delights Family Restaurant
+135,4208,268,2023-08-03,335.31,Curry Kings Restaurant
+136,1216,196,2023-08-15,903.67,Darbar Kitchen Non-Veg
+137,3279,219,2023-07-20,1534.28,Amma Delights Family Restaurant
+138,2263,289,2023-08-01,1148.09,Spice Mess Punjabi
+139,2841,217,2023-03-07,1521.8,Amma Delights Family Restaurant
+140,1355,279,2023-08-21,1511.2,Masala Trail Multicuisine
+141,1485,228,2023-05-14,380.25,Flavour Street Kitchen
+142,4156,244,2023-01-26,887.23,Sri Tiffins Andhra
+143,3542,209,2023-10-26,1217.82,Tandoori Junction
+144,4310,145,2023-04-09,1267.02,Biryani Brothers
+145,2774,110,2023-02-27,1488.27,Sri Tiffins Andhra
+146,2612,131,2023-08-10,1137.91,Amma Tiffins South Indian
+147,3924,144,2023-01-24,995.55,Urban Biryani House
+148,1976,141,2023-11-24,895.23,Urban Biryani House
+149,4935,189,2023-06-15,1403.51,New Cafe North Indian
+150,4063,169,2023-12-02,1672.67,Darbar Restaurant North Indian
+151,3481,149,2023-07-14,184.03,Ruchi Curry House Multicuisine
+152,2838,239,2023-10-10,1484.07,Flavour Street Kitchen
+153,3486,101,2023-08-02,161.58,Taste of Biryani Non-Veg
+154,2776,296,2023-12-08,494.67,Ruchi Foods Chinese
+155,4056,192,2023-12-25,1502.86,Amma Biryani North Indian
+156,2455,266,2023-04-02,1142.65,Swagath Cafe Multicuisine
+157,1516,136,2023-03-03,1344.82,Royal Tiffins Multicuisine
+158,2002,146,2023-01-27,245.44,Taste of Biryani Non-Veg
+159,1945,286,2023-10-18,1310.68,Flavour Street Kitchen
+160,4863,262,2023-08-05,855.77,Ruchi Foods South Indian
+161,1526,184,2023-05-12,338.28,Curry Kings Restaurant
+162,1797,157,2023-12-27,236.19,Annapurna Tiffins South Indian
+163,4484,298,2023-03-01,339.65,Royal Eatery South Indian
+164,4843,181,2023-01-07,1326.88,Royal Tiffins Multicuisine
+165,1335,166,2023-08-10,1700.55,FoodHub Express
+166,1139,263,2023-08-11,576.79,Bombay Spice Villa
+167,3146,183,2023-08-22,789.4,Royal Tiffins Multicuisine
+168,4153,130,2023-08-12,231.6,Spice Mess Punjabi
+169,2862,155,2023-05-17,777.86,Masala Trail Multicuisine
+170,4420,258,2023-12-19,1733.53,Royal Masala Point
+171,3047,109,2023-02-06,934.26,FoodHub Express
+172,3339,119,2023-04-06,1106.63,Darbar Kitchen Non-Veg
+173,1562,218,2023-10-10,1060.94,Royal Biryani North Indian
+174,1241,264,2023-07-05,683.32,Darbar Kitchen Non-Veg
+175,4221,186,2023-05-01,486.18,The Feast Factory
+176,3454,137,2023-02-10,1413.88,FoodHub Express
+177,2918,208,2023-08-05,1686.05,Royal Biryani North Indian
+178,2312,129,2023-10-21,956.06,Curry Kings Restaurant
+179,4135,298,2023-08-20,402.99,Swagath Cafe Multicuisine
+180,4333,171,2023-10-22,1785.71,Punjabi Zaika House
+181,2566,102,2023-08-13,618.72,Amma Kitchen Punjabi
+182,1930,116,2023-10-07,491.31,FoodHub Express
+183,2459,200,2023-11-21,406.95,Royal Eatery South Indian
+184,2179,164,2023-10-20,412.82,Darbar Delights South Indian
+185,2191,250,2023-10-05,1140.79,Spice Mess Andhra
+186,2270,256,2023-07-02,383.61,Spice Kitchen Punjabi
+187,2921,266,2023-12-24,1705.89,Spice Mess Andhra
+188,2714,153,2023-05-22,1286.36,Swagath Cafe Multicuisine
+189,1354,162,2023-06-07,1502.08,Taste of Biryani Non-Veg
+190,1847,297,2023-01-24,1488.67,Chef’s Delight Kitchen
+191,4246,220,2023-01-13,644.64,Darbar Mess Pure Veg
+192,1130,278,2023-12-08,769.14,Royal Masala Point
+193,2084,281,2023-04-16,163.91,Darbar Kitchen Non-Veg
+194,3184,285,2023-01-19,898.75,Ruchi Foods South Indian
+195,1781,148,2023-05-25,301.34,Ruchi Biryani Punjabi
+196,3256,146,2023-10-11,7613.24,Amma Kitchen Punjabi
+197,3652,292,2023-05-08,1040.05,Darbar Mess Pure Veg
+198,2385,281,2023-05-08,1299.66,Tandoori Junction
+199,4223,105,2023-04-14,469.22,Spice Mess Andhra
+200,1943,210,2023-11-07,1189.74,Flavour Street Kitchen
+201,3589,132,2023-05-20,1552.42,Sri Tiffins Andhra
+202,2130,169,2023-01-12,1316.76,Sri Tiffins Andhra
+203,1320,296,2023-11-17,108.73,Biryani Brothers
+204,1585,226,2023-12-10,1205.58,Annapurna Tiffins South Indian
+205,1995,106,2023-06-04,261.63,Swagath Cafe Multicuisine
+206,2833,120,2023-04-27,398.15,FoodHub Express
+207,4478,299,2023-02-22,1004.48,Darbar Restaurant North Indian
+208,1782,108,2023-03-13,484.85,Curry Kings Restaurant
+209,3527,224,2023-06-18,1143.7,Ruchi Foods Chinese
+210,3733,283,2023-04-21,902.08,Amma Delights Family Restaurant
+211,2147,220,2023-02-01,924.41,The Feast Factory
+212,4786,282,2023-08-14,1758.43,Darbar Mess Pure Veg
+213,1145,247,2023-01-19,656.49,Royal Eatery South Indian
+214,4126,154,2023-12-19,787.15,Taste of Biryani Non-Veg
+215,3550,117,2023-09-11,327.16,Chef’s Delight Kitchen
+216,3242,273,2023-06-21,971.14,Amma Restaurant South Indian
+217,2703,203,2023-08-13,1761.81,Udupi Curry House South Indian
+218,2476,181,2023-05-10,1287.09,Tandoori Junction
+219,3758,186,2023-07-23,279.53,Swagath Cafe Multicuisine
+220,4225,145,2023-01-25,126.99,Bombay Spice Villa
+221,3711,138,2023-01-02,1026.7,Spice Mess Punjabi
+222,4893,298,2023-03-20,1200.94,Amma Biryani North Indian
+223,4831,218,2023-01-11,1651.09,Amma Restaurant South Indian
+224,1483,192,2023-08-20,963.9,Annapurna Kitchen Family Restaurant
+225,3141,145,2023-10-26,1032.81,Biryani Brothers
+226,2880,183,2023-08-20,805.59,Chef’s Delight Kitchen
+227,1641,187,2023-02-12,831.67,Amma Delights Family Restaurant
+228,1698,181,2023-08-03,362.64,Royal Biryani North Indian
+229,2101,132,2023-05-23,1420.16,Amma Biryani North Indian
+230,3434,227,2023-06-16,1599.76,New Cafe North Indian
+231,3035,299,2023-12-18,875.75,Sri Tiffins Andhra
+232,1747,170,2023-07-21,1644.99,Ruchi Foods South Indian
+233,2255,119,2023-07-27,442.41,Annapurna Tiffins South Indian
+234,1966,242,2023-04-27,1414.27,Bombay Spice Villa
+235,4588,165,2023-02-23,211.9,Amma Restaurant South Indian
+236,1770,181,2023-08-09,959.0,New Cafe North Indian
+237,3650,221,2023-12-21,764.24,Spice Mess Andhra
+238,3010,241,2023-08-20,1784.98,Curry Kings Restaurant
+239,2314,172,2023-08-27,108.3,Darbar Kitchen Non-Veg
+240,2737,255,2023-05-27,1143.77,Amma Biryani North Indian
+241,4516,247,2023-11-26,1415.71,Annapurna Tiffins South Indian
+242,2434,247,2023-08-15,440.97,Masala Trail Multicuisine
+243,2109,275,2023-05-27,1525.15,Ruchi Foods South Indian
+244,1630,262,2023-01-27,463.87,FoodHub Express
+245,1938,139,2023-08-05,1727.29,Annapurna Tiffins South Indian
+246,1445,254,2023-12-21,581.73,Curry Kings Restaurant
+247,2098,142,2023-08-16,287.6,Sri Tiffins Andhra
+248,4128,254,2023-12-17,676.28,Royal Eatery South Indian
+249,2055,141,2023-08-02,1225.33,Spice Mess Punjabi
+250,3361,107,2023-09-03,1376.91,Spice Mess Punjabi
+251,1027,268,2023-01-12,1376.69,Urban Biryani House
+252,2329,244,2023-06-09,1740.58,Taste of Biryani Non-Veg
+253,3041,144,2023-05-17,730.5,The Feast Factory
+254,4781,146,2023-12-25,1528.66,Spice Kitchen Punjabi
+255,2246,145,2023-07-10,605.12,Royal Tiffins Multicuisine
+256,1092,243,2023-12-01,721.41,Darbar Kitchen Non-Veg
+257,4990,179,2023-07-01,736.15,Darbar Restaurant North Indian
+258,4734,202,2023-01-23,1403.82,Swagath Cafe Multicuisine
+259,4761,272,2023-11-15,1497.41,Spice Mess Punjabi
+260,2566,139,2023-07-25,806.41,Grand Cafe Punjabi
+261,3998,277,2023-04-13,1362.46,Ruchi Curry House Multicuisine
+262,3325,133,2023-05-02,11716.95,Masala Trail Multicuisine
+263,3378,229,2023-06-12,986.76,Ruchi Curry House Multicuisine
+264,1451,214,2023-08-07,1555.11,Sri Tiffins Andhra
+265,3745,297,2023-03-15,12822.72,Darbar Restaurant North Indian
+266,1377,195,2023-04-02,647.81,Spice Kitchen Punjabi
+267,3769,193,2023-06-26,1624.83,Punjabi Zaika House
+268,1719,240,2023-10-23,926.21,Annapurna Kitchen Family Restaurant
+269,1100,259,2023-01-04,524.78,Udupi Curry House South Indian
+270,1683,257,2023-10-01,362.73,Ruchi Foods Chinese
+271,4689,193,2023-05-05,1333.22,Chef’s Delight Kitchen
+272,1847,211,2023-03-07,1352.84,Bombay Spice Villa
+273,2323,257,2023-12-21,559.47,Chef’s Delight Kitchen
+274,4516,222,2023-01-07,1584.14,Grand Cafe Punjabi
+275,4771,174,2023-09-04,344.38,Spice Kitchen Punjabi
+276,2154,164,2023-06-15,434.89,Punjabi Zaika House
+277,4145,162,2023-12-17,509.36,Chef’s Delight Kitchen
+278,1245,143,2023-08-11,1079.17,Spice Mess Andhra
+279,2571,249,2023-02-05,458.52,Bombay Spice Villa
+280,3246,217,2023-08-19,288.59,Spice Kitchen Punjabi
+281,2506,292,2023-09-18,991.84,Spice Mess Punjabi
+282,3177,238,2023-12-13,1455.72,Ruchi Foods South Indian
+283,3752,230,2023-04-15,1565.56,Amma Kitchen Punjabi
+284,2115,164,2023-01-14,1021.79,Amma Delights Family Restaurant
+285,4942,232,2023-04-26,1169.94,Annapurna Tiffins South Indian
+286,3142,228,2023-06-24,411.96,Tandoori Junction
+287,2636,281,2023-03-15,846.16,Bombay Spice Villa
+288,1669,237,2023-01-11,523.87,Darbar Restaurant North Indian
+289,3551,105,2023-10-10,1219.79,Punjabi Zaika House
+290,4887,172,2023-01-20,1141.73,Swagath Cafe Multicuisine
+291,4690,221,2023-12-24,579.61,New Foods Chinese
+292,1636,114,2023-05-23,809.86,Udupi Curry House South Indian
+293,3464,103,2023-03-03,755.03,Flavour Street Kitchen
+294,2370,243,2023-12-25,1054.94,Amma Biryani North Indian
+295,3460,273,2023-08-22,1026.41,Grand Cafe Punjabi
+296,2564,177,2023-08-08,578.38,Urban Biryani House
+297,3841,207,2023-06-07,749.62,Spice Kitchen Punjabi
+298,2714,117,2023-12-05,1456.39,Royal Eatery South Indian
+299,2000,237,2023-12-26,1768.03,Chef’s Delight Kitchen
+300,2260,106,2023-06-21,1729.79,Royal Biryani North Indian
+301,2706,288,2023-12-22,268.19,Royal Masala Point
+302,1217,172,2023-03-06,992.73,Curry Kings Restaurant
+303,4515,103,2023-09-13,1271.44,Punjabi Zaika House
+304,1632,201,2023-05-20,1775.06,Ruchi Biryani Punjabi
+305,3720,186,2023-04-22,1184.83,Spice Kitchen Punjabi
+306,2015,195,2023-05-17,608.17,Amma Biryani North Indian
+307,1004,130,2023-10-12,595.76,Spice Kitchen Punjabi
+308,1020,149,2023-07-02,299.72,Tandoori Junction
+309,1790,239,2023-05-03,592.25,Amma Kitchen Punjabi
+310,2089,276,2023-07-18,918.7,Darbar Restaurant North Indian
+311,1862,110,2023-08-21,627.53,Royal Eatery South Indian
+312,2190,169,2023-08-15,538.7,FoodHub Express
+313,2665,174,2023-02-08,943.22,Ruchi Foods Chinese
+314,4455,174,2023-02-25,733.61,Royal Masala Point
+315,4921,175,2023-05-01,1704.7,Ruchi Curry House Multicuisine
+316,2545,106,2023-12-05,324.47,Annapurna Tiffins South Indian
+317,3796,136,2023-11-21,1343.58,Bombay Spice Villa
+318,3528,266,2023-08-14,183.37,New Cafe North Indian
+319,2360,157,2023-05-10,640.09,Darbar Kitchen Non-Veg
+320,2742,245,2023-12-10,271.82,Curry Kings Restaurant
+321,2640,196,2023-02-14,409.6,Swagath Cafe Multicuisine
+322,3079,110,2023-05-07,685.83,Chef’s Delight Kitchen
+323,4604,140,2023-06-22,297.61,Darbar Mess Pure Veg
+324,2300,132,2023-10-21,342.95,Amma Tiffins South Indian
+325,2379,190,2023-05-18,893.93,Royal Tiffins Multicuisine
+326,1826,101,2023-08-25,627.71,Flavour Street Kitchen
+327,1938,129,2023-06-18,1777.04,Grand Cafe Punjabi
+328,2156,278,2023-06-05,1343.88,Amma Restaurant South Indian
+329,4389,252,2023-07-16,1149.02,New Cafe North Indian
+330,2357,288,2023-05-07,943.71,Chef’s Delight Kitchen
+331,3767,167,2023-08-26,146.42,Amma Kitchen Punjabi
+332,2862,123,2023-12-22,553.8,Masala Trail Multicuisine
+333,3559,126,2023-08-05,1274.02,Ruchi Biryani Punjabi
+334,4867,217,2023-07-12,1345.78,Amma Kitchen Punjabi
+335,3170,246,2023-03-08,989.4,Punjabi Zaika House
+336,1138,194,2023-03-21,1273.33,Annapurna Tiffins South Indian
+337,3752,114,2023-11-08,920.6,Darbar Mess Pure Veg
+338,1492,118,2023-03-09,1412.4,Ruchi Curry House Multicuisine
+339,2245,285,2023-06-20,603.46,Amma Restaurant South Indian
+340,4063,167,2023-06-13,1345.89,Tandoori Junction
+341,2708,171,2023-01-15,346.52,Urban Biryani House
+342,2135,298,2023-10-19,182.43,Annapurna Kitchen Family Restaurant
+343,3147,144,2023-07-08,1554.02,Darbar Kitchen Non-Veg
+344,4502,158,2023-08-26,118.53,Amma Tiffins South Indian
+345,4830,205,2023-03-03,229.15,Annapurna Kitchen Family Restaurant
+346,4339,140,2023-12-04,450.02,Grand Cafe Punjabi
+347,3096,283,2023-09-11,531.86,Royal Eatery South Indian
+348,1633,216,2023-08-27,324.95,Amma Restaurant South Indian
+349,4108,280,2023-08-12,980.91,New Cafe North Indian
+350,3485,173,2023-05-05,583.8,Amma Tiffins South Indian
+351,4207,285,2023-05-27,267.62,Ruchi Foods South Indian
+352,1419,205,2023-08-03,440.99,Curry Kings Restaurant
+353,1895,151,2023-02-17,150.17,Royal Eatery South Indian
+354,2855,290,2023-11-12,420.07,The Feast Factory
+355,1481,158,2023-08-22,1266.07,New Cafe North Indian
+356,4722,256,2023-06-08,1275.69,Spice Mess Punjabi
+357,2277,209,2023-01-21,1261.73,Spice Mess Andhra
+358,3394,159,2023-12-26,1380.4,Udupi Curry House South Indian
+359,1254,262,2023-08-22,1137.5,Ruchi Foods Chinese
+360,2209,219,2023-12-03,101.83,Flavour Street Kitchen
+361,1426,126,2023-08-08,1661.96,Amma Delights Family Restaurant
+362,4044,229,2023-03-05,901.72,Punjabi Zaika House
+363,2214,151,2023-09-13,417.8,The Feast Factory
+364,3349,112,2023-08-19,663.03,Darbar Mess Pure Veg
+365,4732,123,2023-12-23,665.2,Royal Eatery South Indian
+366,3292,200,2023-11-19,1729.7,Darbar Restaurant North Indian
+367,1624,189,2023-01-07,1595.33,Taste of Biryani Non-Veg
+368,2816,122,2023-01-03,1363.46,Punjabi Zaika House
+369,1637,254,2023-10-18,314.24,New Cafe North Indian
+370,3652,244,2023-02-02,986.74,Amma Biryani North Indian
+371,4961,183,2023-12-08,617.32,New Cafe North Indian
+372,3258,294,2023-12-19,1076.99,Swagath Cafe Multicuisine
+373,3262,272,2023-08-01,1390.51,Darbar Delights South Indian
+374,2405,184,2023-07-06,1750.98,Sri Tiffins Andhra
+375,3287,252,2023-12-19,304.09,Annapurna Kitchen Family Restaurant
+376,2543,143,2023-07-11,1279.66,Spice Kitchen Punjabi
+377,2772,282,2023-05-26,1609.47,Royal Biryani North Indian
+378,2223,111,2023-05-10,1572.52,Amma Restaurant South Indian
+379,4556,108,2023-03-09,657.7,Royal Masala Point
+380,2599,166,2023-12-01,1061.73,Royal Masala Point
+381,3213,273,2023-11-20,962.17,Ruchi Biryani Punjabi
+382,2102,283,2023-07-13,1532.29,Spice Mess Andhra
+383,2876,187,2023-11-04,761.79,Royal Masala Point
+384,3843,235,2023-10-12,859.95,Amma Kitchen Punjabi
+385,1125,100,2023-05-26,1532.56,The Feast Factory
+386,4516,150,2023-06-25,1239.6,Royal Tiffins Multicuisine
+387,2821,162,2023-11-24,787.45,Annapurna Kitchen Family Restaurant
+388,1586,212,2023-04-05,351.68,Royal Tiffins Multicuisine
+389,2664,237,2023-11-14,646.35,Taste of Biryani Non-Veg
+390,3892,231,2023-06-11,1095.04,Punjabi Zaika House
+391,3055,227,2023-03-12,1018.61,Taste of Biryani Non-Veg
+392,4904,203,2023-01-14,754.77,Ruchi Curry House Multicuisine
+393,4291,199,2023-12-19,594.02,Darbar Mess Pure Veg
+394,3791,161,2023-08-08,698.5,Amma Restaurant South Indian
+395,2292,236,2023-12-13,1472.12,New Foods Chinese
+396,4621,248,2023-12-20,142.98,Udupi Curry House South Indian
+397,4848,278,2023-08-05,577.02,The Feast Factory
+398,4437,135,2023-05-26,1308.97,Bombay Spice Villa
+399,1735,297,2023-12-01,1118.04,Ruchi Curry House Multicuisine
+400,2262,193,2023-09-20,439.06,Udupi Curry House South Indian
+401,1440,119,2023-07-25,436.19,The Feast Factory
+402,1962,179,2023-09-04,268.06,Ruchi Curry House Multicuisine
+403,3399,187,2023-12-18,510.96,Amma Tiffins South Indian
+404,2484,285,2023-07-27,398.28,New Foods Chinese
+405,3654,265,2023-12-04,1415.04,Royal Eatery South Indian
+406,1189,292,2023-08-18,203.34,Sri Tiffins Andhra
+407,4036,260,2023-03-02,822.47,Sri Tiffins Andhra
+408,1617,145,2023-12-21,1585.6,Ruchi Foods Chinese
+409,2553,201,2023-03-19,1203.65,Spice Kitchen Punjabi
+410,2331,249,2023-05-25,159.62,Flavour Street Kitchen
+411,4138,249,2023-01-07,673.19,Amma Restaurant South Indian
+412,3254,172,2023-08-17,483.34,Flavour Street Kitchen
+413,4951,263,2023-09-07,955.47,Udupi Curry House South Indian
+414,1561,193,2023-08-20,1103.46,Amma Restaurant South Indian
+415,2290,128,2023-12-19,1104.23,Annapurna Kitchen Family Restaurant
+416,2439,103,2023-06-10,864.21,New Foods Chinese
+417,3300,123,2023-12-06,1047.87,Masala Trail Multicuisine
+418,3480,199,2023-08-21,1020.59,Biryani Brothers
+419,4798,208,2023-12-20,822.7,Darbar Delights South Indian
+420,4442,210,2023-12-01,998.4,Spice Kitchen Punjabi
+421,3867,170,2023-12-03,1186.29,Biryani Brothers
+422,4091,286,2023-12-12,1612.28,Royal Tiffins Multicuisine
+423,3637,271,2023-07-25,1659.65,Bombay Spice Villa
+424,4454,291,2023-06-20,641.84,Ruchi Foods Chinese
+425,1933,195,2023-07-01,970.22,Flavour Street Kitchen
+426,2105,140,2023-10-19,648.44,Sri Tiffins Andhra
+427,1737,211,2023-12-13,161.04,Spice Mess Andhra
+428,3304,222,2023-03-18,1686.69,Spice Kitchen Punjabi
+429,2922,234,2023-04-19,714.7,Amma Restaurant South Indian
+430,2832,245,2023-11-04,1730.01,Masala Trail Multicuisine
+431,1992,251,2023-04-15,217.72,Punjabi Zaika House
+432,1338,235,2023-12-17,550.65,Urban Biryani House
+433,3550,174,2023-10-08,1652.15,Bombay Spice Villa
+434,1841,180,2023-04-16,809.67,Ruchi Foods South Indian
+435,2199,255,2023-12-06,178.61,Udupi Curry House South Indian
+436,1766,251,2023-05-18,740.39,New Foods Chinese
+437,3859,282,2023-04-17,1370.99,Amma Kitchen Punjabi
+438,2016,103,2023-11-26,656.29,New Foods Chinese
+439,1543,110,2023-06-04,725.71,Grand Cafe Punjabi
+440,1891,148,2023-12-21,294.02,Spice Mess Andhra
+441,1614,237,2023-10-15,212.92,The Feast Factory
+442,1252,280,2023-08-11,1295.54,New Cafe North Indian
+443,4382,278,2023-11-17,1664.57,Darbar Delights South Indian
+444,2557,206,2023-12-13,175.27,Biryani Brothers
+445,3471,159,2023-12-05,1014.23,Swagath Cafe Multicuisine
+446,2073,175,2023-07-08,1545.83,Royal Eatery South Indian
+447,2314,146,2023-03-02,471.4,Udupi Curry House South Indian
+448,4121,130,2023-12-07,1281.99,Amma Delights Family Restaurant
+449,4668,256,2023-12-03,830.7,Ruchi Foods Chinese
+450,2488,239,2023-12-05,1347.6,Masala Trail Multicuisine
+451,4599,122,2023-08-19,1358.9,Royal Tiffins Multicuisine
+452,4309,103,2023-08-26,1278.08,FoodHub Express
+453,3221,208,2023-01-25,446.5,The Feast Factory
+454,1256,207,2023-08-25,946.29,Ruchi Curry House Multicuisine
+455,1632,114,2023-09-04,1217.37,Darbar Mess Pure Veg
+456,2049,151,2023-12-20,1428.38,Curry Kings Restaurant
+457,3372,179,2023-04-06,1147.0,The Feast Factory
+458,2087,174,2023-02-08,1050.64,New Foods Chinese
+459,2457,153,2023-06-14,803.9,Annapurna Kitchen Family Restaurant
+460,1546,280,2023-08-18,367.94,Biryani Brothers
+461,3598,131,2023-09-14,834.8,Masala Trail Multicuisine
+462,1358,250,2023-10-26,1104.88,Darbar Mess Pure Veg
+463,1331,246,2023-11-24,502.26,Amma Biryani North Indian
+464,3575,194,2023-01-24,1432.66,Curry Kings Restaurant
+465,2972,253,2023-12-22,474.84,Swagath Cafe Multicuisine
+466,4190,144,2023-05-21,418.35,New Cafe North Indian
+467,1305,203,2023-12-26,1648.36,Udupi Curry House South Indian
+468,3437,185,2023-01-22,1794.23,Royal Tiffins Multicuisine
+469,4043,100,2023-03-17,455.14,Darbar Mess Pure Veg
+470,1642,224,2023-11-07,582.24,Tandoori Junction
+471,3461,266,2023-05-15,1492.16,Curry Kings Restaurant
+472,3333,208,2023-06-25,1431.2,Taste of Biryani Non-Veg
+473,4376,215,2023-12-09,550.94,New Cafe North Indian
+474,1842,144,2023-03-12,1029.37,Biryani Brothers
+475,2785,172,2023-08-14,1797.09,Amma Kitchen Punjabi
+476,1827,198,2023-01-01,782.97,Amma Kitchen Punjabi
+477,1116,282,2023-10-22,634.01,Swagath Cafe Multicuisine
+478,2399,252,2023-01-03,760.67,Spice Mess Punjabi
+479,4647,109,2023-01-02,542.77,Taste of Biryani Non-Veg
+480,3589,218,2023-11-02,438.49,Amma Kitchen Punjabi
+481,2502,232,2023-03-18,122.87,Tandoori Junction
+482,1004,129,2023-08-27,154.74,Tandoori Junction
+483,3304,142,2023-01-16,1418.03,Spice Mess Punjabi
+484,2808,182,2023-10-04,986.47,Udupi Curry House South Indian
+485,2691,234,2023-05-18,588.33,Royal Eatery South Indian
+486,4113,262,2023-08-01,474.23,Darbar Kitchen Non-Veg
+487,3296,176,2023-04-09,924.34,New Foods Chinese
+488,3172,263,2023-06-11,1117.0,Amma Biryani North Indian
+489,3242,113,2023-12-24,762.08,Amma Tiffins South Indian
+490,1524,184,2023-10-16,108.56,The Feast Factory
+491,2251,133,2023-01-06,1124.89,Spice Mess Punjabi
+492,3106,101,2023-10-21,1256.77,Spice Mess Punjabi
+493,3761,164,2023-09-15,1191.66,Flavour Street Kitchen
+494,4893,106,2023-08-24,1540.46,Amma Kitchen Punjabi
+495,1121,204,2023-01-14,473.65,Annapurna Tiffins South Indian
+496,3016,109,2023-03-23,732.92,New Cafe North Indian
+497,3869,154,2023-07-08,1065.02,Swagath Cafe Multicuisine
+498,2706,108,2023-01-25,1629.41,Swagath Cafe Multicuisine
+499,1344,245,2023-07-04,288.97,Spice Mess Andhra
+500,3606,132,2023-12-06,1596.71,Amma Biryani North Indian
+501,4865,297,2023-08-26,1458.35,New Foods Chinese
+502,4322,224,2023-11-24,313.93,Curry Kings Restaurant
+503,4325,260,2023-01-22,1345.17,Amma Restaurant South Indian
+504,4719,214,2023-05-07,514.88,Spice Kitchen Punjabi
+505,1341,189,2023-09-16,550.56,Darbar Restaurant North Indian
+506,2412,251,2023-08-14,1773.57,Ruchi Foods Chinese
+507,4163,223,2023-01-03,819.26,Amma Biryani North Indian
+508,4127,231,2023-04-05,1684.07,Grand Cafe Punjabi
+509,3514,144,2023-01-23,567.71,Curry Kings Restaurant
+510,1337,100,2023-01-03,897.42,Flavour Street Kitchen
+511,4391,203,2023-06-19,1684.61,Chef’s Delight Kitchen
+512,1422,280,2023-08-20,839.77,Ruchi Foods Chinese
+513,3748,184,2023-01-26,1773.08,Darbar Mess Pure Veg
+514,1046,260,2023-01-23,1765.55,Ruchi Curry House Multicuisine
+515,4608,297,2023-08-01,1408.7,Annapurna Kitchen Family Restaurant
+516,1737,104,2023-09-23,171.56,Royal Eatery South Indian
+517,3208,160,2023-06-08,375.83,Taste of Biryani Non-Veg
+518,4899,261,2023-09-20,825.38,Ruchi Biryani Punjabi
+519,4532,168,2023-06-23,1614.48,Darbar Restaurant North Indian
+520,3025,164,2023-01-03,1738.17,Darbar Mess Pure Veg
+521,2086,104,2023-12-15,1578.81,Tandoori Junction
+522,4761,136,2023-10-10,1446.93,Amma Delights Family Restaurant
+523,4448,174,2023-11-09,668.8,FoodHub Express
+524,4294,223,2023-03-05,1101.51,Ruchi Foods Chinese
+525,3379,226,2023-08-16,275.61,Urban Biryani House
+526,3965,251,2023-05-20,498.35,Darbar Mess Pure Veg
+527,4275,121,2023-10-13,493.36,Ruchi Foods Chinese
+528,4698,201,2023-05-15,315.08,Swagath Cafe Multicuisine
+529,1384,260,2023-05-09,695.44,Bombay Spice Villa
+530,2149,242,2023-03-08,1433.52,Tandoori Junction
+531,4248,222,2023-12-05,321.28,Royal Eatery South Indian
+532,4861,122,2023-11-07,295.48,Darbar Kitchen Non-Veg
+533,4111,137,2023-11-19,1384.44,Amma Delights Family Restaurant
+534,4610,125,2023-12-19,538.01,Chef’s Delight Kitchen
+535,4608,254,2023-12-21,258.32,Chef’s Delight Kitchen
+536,2325,288,2023-12-25,1487.11,New Cafe North Indian
+537,3472,228,2023-04-24,1457.66,Amma Tiffins South Indian
+538,1157,137,2023-07-07,416.19,Amma Restaurant South Indian
+539,3356,255,2023-01-03,230.17,Ruchi Curry House Multicuisine
+540,3965,198,2023-08-23,250.6,Bombay Spice Villa
+541,4079,261,2023-02-11,1478.08,Punjabi Zaika House
+542,4397,281,2023-05-12,997.14,Spice Kitchen Punjabi
+543,1274,167,2023-05-19,780.73,Royal Tiffins Multicuisine
+544,1649,112,2023-11-01,857.04,Darbar Kitchen Non-Veg
+545,3439,132,2023-08-21,1558.71,Ruchi Foods Chinese
+546,4306,275,2023-12-08,1242.24,FoodHub Express
+547,2354,150,2023-09-24,1665.73,Ruchi Foods Chinese
+548,2029,266,2023-10-12,840.64,Amma Biryani North Indian
+549,2670,178,2023-01-23,1160.12,Taste of Biryani Non-Veg
+550,2537,200,2023-12-13,180.74,New Foods Chinese
+551,4056,224,2023-12-26,1697.07,Curry Kings Restaurant
+552,3511,105,2023-12-13,669.44,Sri Tiffins Andhra
+553,3792,227,2023-08-22,1328.69,Ruchi Foods Chinese
+554,3571,247,2023-10-18,1393.81,Amma Biryani North Indian
+555,1043,196,2023-10-26,634.05,Darbar Restaurant North Indian
+556,3866,258,2023-10-13,1330.59,Ruchi Foods Chinese
+557,2427,117,2023-02-03,865.55,Taste of Biryani Non-Veg
+558,4336,122,2023-11-21,1741.82,Chef’s Delight Kitchen
+559,4648,281,2023-12-23,1308.09,Spice Mess Andhra
+560,4924,191,2023-10-27,856.89,Urban Biryani House
+561,3410,110,2023-01-19,1170.49,Spice Kitchen Punjabi
+562,1042,292,2023-08-09,379.95,Darbar Delights South Indian
+563,2984,155,2023-07-11,710.16,Amma Restaurant South Indian
+564,4347,140,2023-08-02,1172.51,Swagath Cafe Multicuisine
+565,2263,192,2023-12-15,675.16,Bombay Spice Villa
+566,2575,291,2023-08-16,1271.88,Chef’s Delight Kitchen
+567,4222,155,2023-10-22,662.75,Amma Delights Family Restaurant
+568,3960,275,2023-12-02,447.12,Annapurna Kitchen Family Restaurant
+569,4036,256,2023-04-04,1377.48,Ruchi Foods Chinese
+570,1545,129,2023-02-07,895.11,Spice Kitchen Punjabi
+571,1400,226,2023-12-23,114.24,Darbar Delights South Indian
+572,2842,110,2023-06-12,341.55,Royal Biryani North Indian
+573,2121,155,2023-12-01,1718.86,Ruchi Curry House Multicuisine
+574,3677,187,2023-01-20,1447.36,Curry Kings Restaurant
+575,2867,204,2023-01-15,340.9,Chef’s Delight Kitchen
+576,4993,268,2023-08-09,1203.8,Ruchi Biryani Punjabi
+577,2248,274,2023-05-10,811.31,Ruchi Foods South Indian
+578,2349,215,2023-08-01,993.06,Flavour Street Kitchen
+579,2162,215,2023-12-23,1212.2,Swagath Cafe Multicuisine
+580,2893,137,2023-01-10,190.05,Darbar Restaurant North Indian
+581,3526,248,2023-08-16,380.13,Royal Eatery South Indian
+582,1073,186,2023-10-26,1572.94,Bombay Spice Villa
+583,2873,140,2023-01-15,178.46,Amma Tiffins South Indian
+584,4045,289,2023-12-02,1260.52,Spice Mess Punjabi
+585,4410,285,2023-07-10,1727.9,Curry Kings Restaurant
+586,1155,272,2023-03-04,1598.01,Biryani Brothers
+587,2325,114,2023-01-10,1286.28,Royal Biryani North Indian
+588,4288,174,2023-11-05,1257.8,Sri Tiffins Andhra
+589,4419,270,2023-10-05,858.5,Urban Biryani House
+590,4525,117,2023-12-16,1416.66,Curry Kings Restaurant
+591,1130,242,2023-07-20,541.46,Urban Biryani House
+592,1176,196,2023-04-06,1284.62,Spice Kitchen Punjabi
+593,2194,115,2023-08-20,498.48,Masala Trail Multicuisine
+594,3567,289,2023-08-18,566.47,Spice Kitchen Punjabi
+595,2357,115,2023-05-26,1541.16,Darbar Mess Pure Veg
+596,3401,143,2023-05-05,1216.88,Urban Biryani House
+597,4444,248,2023-05-19,477.6,Royal Biryani North Indian
+598,3139,119,2023-01-11,523.48,Amma Restaurant South Indian
+599,3387,125,2023-07-01,1515.44,New Foods Chinese
+600,3489,235,2023-08-10,597.07,Amma Tiffins South Indian
+601,4302,186,2023-08-13,125.96,Royal Eatery South Indian
+602,2135,234,2023-01-22,425.8,Sri Tiffins Andhra
+603,1976,117,2023-01-24,1059.54,Udupi Curry House South Indian
+604,4084,290,2023-08-07,1393.95,Biryani Brothers
+605,3002,176,2023-07-16,294.75,Curry Kings Restaurant
+606,4950,184,2023-02-13,291.29,FoodHub Express
+607,4499,228,2023-12-02,1095.39,Royal Masala Point
+608,1082,189,2023-12-24,344.06,Punjabi Zaika House
+609,3890,132,2023-11-22,766.44,FoodHub Express
+610,3947,173,2023-05-12,1788.99,Amma Delights Family Restaurant
+611,2423,251,2023-10-16,988.46,Amma Delights Family Restaurant
+612,3324,117,2023-08-26,615.44,New Cafe North Indian
+613,3714,214,2023-08-09,595.55,The Feast Factory
+614,2255,113,2023-04-11,1573.97,Flavour Street Kitchen
+615,4956,128,2023-12-16,817.47,The Feast Factory
+616,2516,193,2023-01-27,1111.97,Urban Biryani House
+617,2203,180,2023-08-05,784.32,Ruchi Foods Chinese
+618,3154,102,2023-07-13,1324.44,The Feast Factory
+619,2354,296,2023-08-27,1164.21,Taste of Biryani Non-Veg
+620,4720,295,2023-10-09,394.78,Urban Biryani House
+621,3618,245,2023-08-17,687.57,Spice Mess Punjabi
+622,4770,100,2023-05-25,1053.47,New Cafe North Indian
+623,2291,262,2023-12-23,1442.27,Annapurna Tiffins South Indian
+624,4763,234,2023-12-07,1285.67,Flavour Street Kitchen
+625,3410,270,2023-08-08,890.74,Amma Delights Family Restaurant
+626,3326,126,2023-06-26,1696.21,Amma Tiffins South Indian
+627,3076,279,2023-08-26,1232.1,Darbar Mess Pure Veg
+628,2833,276,2023-12-09,1553.02,Masala Trail Multicuisine
+629,2511,174,2023-06-25,649.62,Ruchi Curry House Multicuisine
+630,2695,247,2023-06-04,415.29,Royal Eatery South Indian
+631,4060,175,2023-12-07,1171.11,Spice Kitchen Punjabi
+632,3972,232,2023-08-13,1079.47,Flavour Street Kitchen
+633,1061,192,2023-09-06,1106.87,Masala Trail Multicuisine
+634,4326,163,2023-06-17,393.87,Darbar Restaurant North Indian
+635,3486,170,2023-06-18,1394.74,Amma Delights Family Restaurant
+636,2652,161,2023-07-02,455.34,Amma Delights Family Restaurant
+637,3118,119,2023-04-06,279.18,FoodHub Express
+638,4540,120,2023-04-10,1404.31,Royal Tiffins Multicuisine
+639,3711,102,2023-01-22,1210.23,Amma Delights Family Restaurant
+640,2593,272,2023-02-06,1705.08,Curry Kings Restaurant
+641,4943,139,2023-10-25,1298.55,FoodHub Express
+642,1340,195,2023-02-04,372.35,Grand Cafe Punjabi
+643,3184,217,2023-08-24,168.04,Darbar Restaurant North Indian
+644,3690,115,2023-10-01,1032.88,Amma Tiffins South Indian
+645,1826,131,2023-08-22,300.18,Tandoori Junction
+646,3365,282,2023-12-21,198.45,Ruchi Biryani Punjabi
+647,2916,231,2023-08-08,1691.6,Darbar Mess Pure Veg
+648,3640,165,2023-12-05,1373.71,Darbar Delights South Indian
+649,4490,176,2023-01-27,566.39,Sri Tiffins Andhra
+650,3820,175,2023-12-15,1469.01,Amma Delights Family Restaurant
+651,1754,138,2023-11-03,1295.17,Spice Mess Punjabi
+652,4123,175,2023-12-02,1447.67,Masala Trail Multicuisine
+653,2415,115,2023-01-18,1074.8,Chef’s Delight Kitchen
+654,3950,239,2023-05-11,1201.46,Spice Kitchen Punjabi
+655,2297,268,2023-04-05,1744.63,Ruchi Foods Chinese
+656,1322,104,2023-10-23,652.18,Amma Tiffins South Indian
+657,3773,283,2023-12-26,1761.97,Chef’s Delight Kitchen
+658,2357,200,2023-12-13,121.79,Royal Masala Point
+659,3603,217,2023-05-23,387.51,Biryani Brothers
+660,1015,231,2023-08-07,936.83,New Foods Chinese
+661,2183,195,2023-12-25,1610.65,Udupi Curry House South Indian
+662,3570,179,2023-12-05,338.6,Royal Eatery South Indian
+663,4478,177,2023-08-16,529.38,Ruchi Biryani Punjabi
+664,2237,253,2023-04-12,188.9,Spice Mess Punjabi
+665,2980,154,2023-11-09,483.37,FoodHub Express
+666,1447,218,2023-08-04,1584.17,Spice Mess Andhra
+667,2490,195,2023-08-09,812.92,Royal Masala Point
+668,3921,203,2023-10-09,1233.72,Ruchi Foods South Indian
+669,3590,294,2023-01-20,1394.87,Spice Kitchen Punjabi
+670,2286,113,2023-12-06,1607.0,Amma Biryani North Indian
+671,1696,171,2023-10-08,376.81,Spice Kitchen Punjabi
+672,3155,190,2023-06-17,413.61,Tandoori Junction
+673,1166,147,2023-12-23,415.03,Amma Restaurant South Indian
+674,1771,143,2023-10-27,1745.37,Urban Biryani House
+675,2670,128,2023-05-22,1532.05,Ruchi Biryani Punjabi
+676,1559,133,2023-09-05,1583.83,Darbar Delights South Indian
+677,2056,134,2023-06-01,1711.12,Amma Restaurant South Indian
+678,2338,176,2023-08-13,1431.66,Biryani Brothers
+679,1871,137,2023-01-02,1206.78,Tandoori Junction
+680,4691,276,2023-03-18,115.27,Masala Trail Multicuisine
+681,1457,244,2023-12-07,1513.97,FoodHub Express
+682,4262,173,2023-04-20,424.49,New Cafe North Indian
+683,1962,192,2023-07-27,234.35,Chef’s Delight Kitchen
+684,3885,286,2023-09-16,1022.49,Amma Restaurant South Indian
+685,1175,262,2023-04-12,1410.18,Royal Masala Point
+686,3407,299,2023-07-08,121.54,Annapurna Tiffins South Indian
+687,1942,109,2023-01-14,717.85,New Foods Chinese
+688,3283,180,2023-07-02,203.39,Royal Eatery South Indian
+689,3850,218,2023-08-12,1664.51,Darbar Mess Pure Veg
+690,1437,184,2023-01-12,1006.45,Chef’s Delight Kitchen
+691,4099,246,2023-01-12,283.6,Spice Mess Punjabi
+692,2158,153,2023-09-22,515.94,Darbar Mess Pure Veg
+693,2177,274,2023-12-26,242.02,Darbar Restaurant North Indian
+694,1554,216,2023-01-03,163.11,FoodHub Express
+695,1637,207,2023-12-04,827.2,Royal Biryani North Indian
+696,3499,177,2023-12-24,1246.75,The Feast Factory
+697,3847,193,2023-01-26,225.61,Flavour Street Kitchen
+698,2194,254,2023-08-21,766.2,Amma Delights Family Restaurant
+699,3938,265,2023-08-10,605.26,New Foods Chinese
+700,2829,161,2023-08-25,1684.88,Punjabi Zaika House
+701,4239,153,2023-11-12,191.64,New Cafe North Indian
+702,4494,179,2023-07-22,1117.89,Royal Eatery South Indian
+703,1882,286,2023-05-10,127.39,Ruchi Foods Chinese
+704,4095,119,2023-12-23,1363.28,Spice Mess Andhra
+705,1947,110,2023-11-14,1776.55,Spice Mess Punjabi
+706,2498,184,2023-10-05,1179.54,Royal Masala Point
+707,4280,148,2023-12-11,1319.67,Grand Cafe Punjabi
+708,1689,195,2023-12-03,1220.79,Darbar Delights South Indian
+709,2250,262,2023-01-21,1391.26,Darbar Delights South Indian
+710,4934,202,2023-09-11,1409.84,Royal Biryani North Indian
+711,2036,142,2023-12-08,1499.88,Spice Kitchen Punjabi
+712,3957,209,2023-12-09,316.24,Amma Kitchen Punjabi
+713,3193,246,2023-01-08,1136.95,Amma Kitchen Punjabi
+714,1307,227,2023-09-26,167.27,Curry Kings Restaurant
+715,3879,133,2023-03-13,212.04,Bombay Spice Villa
+716,2518,113,2023-08-23,1194.9,Grand Cafe Punjabi
+717,3597,281,2023-11-24,1226.41,Sri Tiffins Andhra
+718,2359,293,2023-10-09,837.92,Amma Tiffins South Indian
+719,1193,195,2023-06-05,441.04,Udupi Curry House South Indian
+720,4410,273,2023-03-24,383.82,Masala Trail Multicuisine
+721,2315,153,2023-08-15,688.05,Annapurna Kitchen Family Restaurant
+722,4911,232,2023-01-17,1103.48,Darbar Kitchen Non-Veg
+723,3947,140,2023-05-10,1368.07,Flavour Street Kitchen
+724,1250,251,2023-07-13,11061.03,New Foods Chinese
+725,3804,173,2023-12-07,13439.88,Bombay Spice Villa
+726,3010,159,2023-11-26,406.65,Curry Kings Restaurant
+727,3857,246,2023-12-09,1070.51,New Cafe North Indian
+728,4824,121,2023-10-11,1012.82,Taste of Biryani Non-Veg
+729,1740,254,2023-11-04,666.26,Ruchi Biryani Punjabi
+730,3508,198,2023-08-19,968.26,Amma Biryani North Indian
+731,4436,183,2023-04-05,201.03,Bombay Spice Villa
+732,4140,259,2023-08-22,902.42,Ruchi Curry House Multicuisine
+733,3241,108,2023-11-14,704.46,Spice Mess Punjabi
+734,4054,122,2023-03-03,1750.81,Annapurna Kitchen Family Restaurant
+735,3356,295,2023-08-27,1126.09,Darbar Restaurant North Indian
+736,4562,189,2023-03-14,1030.22,Udupi Curry House South Indian
+737,3398,101,2023-03-24,189.28,Biryani Brothers
+738,1235,164,2023-12-25,1486.68,Swagath Cafe Multicuisine
+739,1986,266,2023-05-24,579.55,Spice Mess Andhra
+740,4370,139,2023-05-09,1776.02,Spice Mess Punjabi
+741,2594,251,2023-05-16,960.19,The Feast Factory
+742,2992,230,2023-05-02,583.48,Darbar Delights South Indian
+743,3517,107,2023-06-12,13250.02,New Cafe North Indian
+744,4941,190,2023-05-07,1478.05,Ruchi Biryani Punjabi
+745,3560,191,2023-10-01,1661.45,Spice Mess Punjabi
+746,1332,229,2023-05-20,119.09,Amma Restaurant South Indian
+747,4815,231,2023-04-14,1178.72,Annapurna Kitchen Family Restaurant
+748,3200,149,2023-11-05,1513.71,Royal Tiffins Multicuisine
+749,2534,149,2023-12-18,1376.07,Royal Eatery South Indian
+750,1722,227,2023-04-22,1580.46,Royal Tiffins Multicuisine
+751,4727,249,2023-11-15,963.72,Amma Kitchen Punjabi
+752,2193,124,2023-12-18,1090.49,Urban Biryani House
+753,1671,127,2023-12-01,893.16,Grand Cafe Punjabi
+754,2685,214,2023-08-20,1063.11,Darbar Restaurant North Indian
+755,4921,299,2023-03-09,1173.28,Masala Trail Multicuisine
+756,2761,280,2023-08-06,586.3,Ruchi Foods Chinese
+757,3717,298,2023-06-26,749.9,Swagath Cafe Multicuisine
+758,1746,221,2023-02-23,1773.03,Amma Delights Family Restaurant
+759,4454,190,2023-05-06,387.12,Annapurna Tiffins South Indian
+760,1579,164,2023-05-10,197.83,Annapurna Kitchen Family Restaurant
+761,2943,117,2023-08-05,1496.78,Annapurna Tiffins South Indian
+762,2399,273,2023-12-25,688.68,Amma Biryani North Indian
+763,3242,100,2023-03-27,920.71,Urban Biryani House
+764,1012,212,2023-04-22,164.21,Masala Trail Multicuisine
+765,2444,182,2023-03-20,398.24,Darbar Restaurant North Indian
+766,1252,137,2023-01-03,940.54,Bombay Spice Villa
+767,2022,207,2023-01-25,1508.53,Bombay Spice Villa
+768,1010,148,2023-08-24,219.17,Chef’s Delight Kitchen
+769,4178,293,2023-10-21,1690.73,New Cafe North Indian
+770,3368,101,2023-12-12,964.25,Royal Masala Point
+771,4802,215,2023-12-15,1418.86,Darbar Mess Pure Veg
+772,3551,278,2023-01-11,1642.52,Darbar Mess Pure Veg
+773,4374,160,2023-02-24,1783.04,Biryani Brothers
+774,3514,243,2023-03-11,1472.45,Darbar Delights South Indian
+775,1103,178,2023-05-25,952.34,Taste of Biryani Non-Veg
+776,1116,228,2023-03-24,1660.91,Amma Kitchen Punjabi
+777,1856,258,2023-05-20,1397.74,Royal Eatery South Indian
+778,4621,174,2023-08-03,1690.35,Masala Trail Multicuisine
+779,3670,193,2023-11-01,144.9,Amma Biryani North Indian
+780,1520,299,2023-10-04,1238.46,Royal Biryani North Indian
+781,1992,199,2023-07-16,1099.91,Darbar Mess Pure Veg
+782,3141,111,2023-08-15,363.79,Grand Cafe Punjabi
+783,4173,246,2023-12-15,951.24,Royal Masala Point
+784,1421,251,2023-04-22,369.82,Darbar Restaurant North Indian
+785,1670,199,2023-12-14,241.63,New Foods Chinese
+786,4167,270,2023-10-26,712.9,Swagath Cafe Multicuisine
+787,3419,122,2023-10-16,526.67,Udupi Curry House South Indian
+788,2820,106,2023-12-11,351.58,Ruchi Curry House Multicuisine
+789,3294,158,2023-05-02,753.72,The Feast Factory
+790,2704,175,2023-12-08,380.22,Royal Biryani North Indian
+791,2799,113,2023-09-09,995.78,Biryani Brothers
+792,3891,202,2023-08-10,361.65,Chef’s Delight Kitchen
+793,1441,101,2023-12-18,1779.95,Ruchi Curry House Multicuisine
+794,2627,117,2023-03-10,1745.41,Darbar Kitchen Non-Veg
+795,4589,260,2023-03-19,1745.29,Darbar Delights South Indian
+796,1243,257,2023-07-21,905.58,Spice Mess Andhra
+797,1400,240,2023-02-04,1244.7,Biryani Brothers
+798,4058,107,2023-07-12,1091.06,Grand Cafe Punjabi
+799,2265,149,2023-01-26,1259.23,Darbar Restaurant North Indian
+800,1917,119,2023-09-06,1456.53,Amma Restaurant South Indian
+801,2950,201,2023-08-25,1619.04,Royal Tiffins Multicuisine
+802,2595,165,2023-11-23,1458.35,Amma Delights Family Restaurant
+803,4144,239,2023-01-23,1283.79,Bombay Spice Villa
+804,3309,110,2023-04-23,616.95,New Cafe North Indian
+805,2465,220,2023-01-01,125.3,Royal Biryani North Indian
+806,2626,224,2023-12-04,1376.22,Spice Kitchen Punjabi
+807,2179,240,2023-02-02,1275.5,Darbar Mess Pure Veg
+808,4581,120,2023-01-23,466.62,Spice Mess Andhra
+809,4784,125,2023-06-12,586.92,Amma Restaurant South Indian
+810,3407,154,2023-01-12,1664.7,Urban Biryani House
+811,2056,155,2023-06-22,1739.5,Curry Kings Restaurant
+812,3565,106,2023-01-12,220.47,Darbar Delights South Indian
+813,2861,159,2023-03-25,1190.53,Amma Biryani North Indian
+814,2500,122,2023-01-20,149.98,FoodHub Express
+815,1252,182,2023-05-21,1266.4,Amma Tiffins South Indian
+816,1378,147,2023-08-08,1016.75,Urban Biryani House
+817,3529,294,2023-01-27,226.89,Taste of Biryani Non-Veg
+818,1368,284,2023-06-18,902.82,Biryani Brothers
+819,1792,297,2023-01-04,970.22,Flavour Street Kitchen
+820,3622,245,2023-12-18,1489.37,Ruchi Foods Chinese
+821,3238,129,2023-01-05,509.71,Darbar Restaurant North Indian
+822,2455,100,2023-08-01,820.33,Darbar Mess Pure Veg
+823,2502,244,2023-01-04,1323.6,Sri Tiffins Andhra
+824,4608,159,2023-12-14,1779.11,Udupi Curry House South Indian
+825,2213,146,2023-07-05,737.22,Punjabi Zaika House
+826,2572,156,2023-10-08,336.68,Amma Delights Family Restaurant
+827,2357,164,2023-06-12,768.2,Curry Kings Restaurant
+828,4706,141,2023-12-10,785.69,Bombay Spice Villa
+829,1491,228,2023-10-19,1319.09,Masala Trail Multicuisine
+830,3948,258,2023-03-23,1513.52,Amma Delights Family Restaurant
+831,3078,299,2023-12-10,1032.12,Annapurna Kitchen Family Restaurant
+832,4088,252,2023-01-24,605.5,Amma Tiffins South Indian
+833,4367,213,2023-02-23,1330.66,New Foods Chinese
+834,4826,221,2023-05-21,267.18,Ruchi Foods South Indian
+835,1344,258,2023-06-11,601.63,Biryani Brothers
+836,4549,271,2023-11-14,1757.04,Annapurna Tiffins South Indian
+837,2862,248,2023-11-22,675.85,Amma Tiffins South Indian
+838,3922,218,2023-09-26,1666.76,New Cafe North Indian
+839,2069,263,2023-12-19,1032.81,Annapurna Tiffins South Indian
+840,3998,262,2023-10-04,836.55,Curry Kings Restaurant
+841,2716,209,2023-08-13,700.41,Tandoori Junction
+842,3939,127,2023-10-18,916.99,Taste of Biryani Non-Veg
+843,2622,199,2023-12-01,1796.21,Sri Tiffins Andhra
+844,4196,146,2023-08-17,699.75,Annapurna Tiffins South Indian
+845,4860,290,2023-04-01,867.09,Amma Biryani North Indian
+846,3089,147,2023-12-26,876.54,Flavour Street Kitchen
+847,3697,112,2023-11-01,1590.59,Ruchi Curry House Multicuisine
+848,3434,150,2023-11-09,1160.79,Royal Biryani North Indian
+849,2920,294,2023-08-02,879.92,Curry Kings Restaurant
+850,1776,192,2023-01-24,1323.26,Flavour Street Kitchen
+851,1197,292,2023-09-11,120.4,Udupi Curry House South Indian
+852,1774,134,2023-01-10,1255.88,Tandoori Junction
+853,1273,117,2023-01-24,553.64,Amma Biryani North Indian
+854,4840,185,2023-11-25,1008.34,Amma Restaurant South Indian
+855,3857,100,2023-03-27,741.87,Darbar Restaurant North Indian
+856,1676,239,2023-05-13,1777.62,Darbar Restaurant North Indian
+857,1715,180,2023-12-23,287.56,The Feast Factory
+858,3065,213,2023-07-27,452.23,Royal Biryani North Indian
+859,2572,189,2023-04-25,1152.67,Ruchi Biryani Punjabi
+860,2657,187,2023-07-15,1314.56,Urban Biryani House
+861,1801,245,2023-10-18,326.61,Darbar Delights South Indian
+862,1306,110,2023-07-08,873.59,Ruchi Foods South Indian
+863,1547,245,2023-02-20,195.4,Darbar Kitchen Non-Veg
+864,4436,129,2023-05-01,262.6,Spice Mess Andhra
+865,3829,287,2023-09-08,1116.39,Spice Kitchen Punjabi
+866,4654,283,2023-08-16,989.03,Ruchi Biryani Punjabi
+867,2111,199,2023-12-17,523.01,Ruchi Curry House Multicuisine
+868,1987,247,2023-08-20,1718.14,Darbar Delights South Indian
+869,4549,185,2023-01-18,769.7,Amma Delights Family Restaurant
+870,4448,160,2023-09-24,264.17,Spice Mess Punjabi
+871,4504,146,2023-08-12,1581.35,Spice Mess Andhra
+872,4054,168,2023-06-04,458.79,Taste of Biryani Non-Veg
+873,1031,289,2023-09-18,1256.99,Darbar Restaurant North Indian
+874,2358,278,2023-07-24,1648.22,Grand Cafe Punjabi
+875,1828,297,2023-11-21,1038.8,Spice Mess Punjabi
+876,3278,290,2023-07-15,1797.67,Urban Biryani House
+877,3383,115,2023-12-09,415.45,Darbar Restaurant North Indian
+878,4905,136,2023-01-21,754.8,Grand Cafe Punjabi
+879,2200,239,2023-07-27,544.5,FoodHub Express
+880,1224,241,2023-12-02,1020.31,Royal Tiffins Multicuisine
+881,2807,210,2023-12-10,249.37,Darbar Restaurant North Indian
+882,3704,113,2023-12-02,1467.71,Darbar Restaurant North Indian
+883,3206,131,2023-12-25,1578.38,Spice Mess Andhra
+884,4390,130,2023-01-18,546.6,Amma Tiffins South Indian
+885,1364,207,2023-05-27,1106.91,Royal Tiffins Multicuisine
+886,2007,247,2023-11-03,1354.65,Darbar Delights South Indian
+887,4406,191,2023-12-13,1600.7,Ruchi Biryani Punjabi
+888,2020,231,2023-05-25,808.76,Urban Biryani House
+889,2677,101,2023-02-10,173.04,FoodHub Express
+890,2044,192,2023-03-11,440.31,Bombay Spice Villa
+891,3746,219,2023-05-26,738.38,Ruchi Curry House Multicuisine
+892,2211,265,2023-07-07,584.89,FoodHub Express
+893,4794,188,2023-04-20,1180.71,Curry Kings Restaurant
+894,4043,235,2023-12-24,860.32,Spice Mess Punjabi
+895,1483,284,2023-11-09,1477.38,Darbar Delights South Indian
+896,4147,234,2023-12-24,1174.7,Royal Biryani North Indian
+897,4609,101,2023-02-17,1155.53,Sri Tiffins Andhra
+898,4152,199,2023-09-02,873.04,Amma Restaurant South Indian
+899,1675,131,2023-07-09,1186.17,Spice Kitchen Punjabi
+900,3885,272,2023-11-24,1550.16,Amma Delights Family Restaurant
+901,4053,184,2023-08-12,1524.48,Spice Mess Andhra
+902,1500,225,2023-03-03,145.52,Curry Kings Restaurant
+903,1417,174,2023-12-10,488.91,Royal Biryani North Indian
+904,3339,197,2023-06-01,517.06,Punjabi Zaika House
+905,4325,242,2023-09-04,379.3,Annapurna Kitchen Family Restaurant
+906,3487,281,2023-11-22,720.75,Ruchi Foods Chinese
+907,2892,128,2023-02-01,242.25,Spice Mess Andhra
+908,4831,159,2023-07-21,973.77,Royal Biryani North Indian
+909,1458,242,2023-01-03,402.89,Amma Biryani North Indian
+910,2341,194,2023-01-14,982.74,Darbar Restaurant North Indian
+911,2560,201,2023-06-19,965.9,Amma Delights Family Restaurant
+912,1077,183,2023-01-22,1107.5,Chef’s Delight Kitchen
+913,4065,132,2023-03-01,1149.47,Masala Trail Multicuisine
+914,4882,134,2023-01-13,734.45,Royal Tiffins Multicuisine
+915,4701,203,2023-09-20,1714.46,Royal Eatery South Indian
+916,3828,249,2023-10-14,1709.47,Taste of Biryani Non-Veg
+917,1117,285,2023-10-16,835.82,Royal Tiffins Multicuisine
+918,3772,220,2023-01-02,834.2,Amma Delights Family Restaurant
+919,2622,246,2023-10-05,1070.18,Grand Cafe Punjabi
+920,3459,227,2023-12-24,156.76,FoodHub Express
+921,2905,264,2023-10-19,174.04,Flavour Street Kitchen
+922,1221,287,2023-01-22,1418.3,Royal Tiffins Multicuisine
+923,1140,157,2023-08-09,868.12,Ruchi Curry House Multicuisine
+924,4420,269,2023-07-02,208.3,Royal Biryani North Indian
+925,2996,255,2023-01-05,226.78,Amma Tiffins South Indian
+926,3675,272,2023-12-02,776.15,Amma Kitchen Punjabi
+927,1589,278,2023-12-04,1662.91,Masala Trail Multicuisine
+928,2380,230,2023-09-15,1160.73,Darbar Restaurant North Indian
+929,3316,194,2023-07-20,1147.0,Royal Eatery South Indian
+930,4723,123,2023-02-12,1201.17,Darbar Delights South Indian
+931,3171,276,2023-02-01,1222.14,Chef’s Delight Kitchen
+932,1246,202,2023-12-25,230.37,Chef’s Delight Kitchen
+933,1242,255,2023-02-03,1368.27,Annapurna Kitchen Family Restaurant
+934,4330,144,2023-10-02,872.1,Curry Kings Restaurant
+935,1671,237,2023-08-07,1075.06,Biryani Brothers
+936,3560,221,2023-02-18,890.25,Taste of Biryani Non-Veg
+937,4502,174,2023-08-05,1648.18,New Foods Chinese
+938,4262,127,2023-08-22,834.78,New Cafe North Indian
+939,2943,222,2023-12-14,399.52,Ruchi Biryani Punjabi
+940,4670,287,2023-12-21,386.33,Chef’s Delight Kitchen
+941,3805,292,2023-11-24,1680.57,Amma Delights Family Restaurant
+942,2048,156,2023-12-05,1377.16,Curry Kings Restaurant
+943,4596,188,2023-06-11,1720.64,Annapurna Tiffins South Indian
+944,1441,255,2023-08-16,899.61,Annapurna Kitchen Family Restaurant
+945,2022,147,2023-01-16,1758.41,Amma Restaurant South Indian
+946,4871,288,2023-08-24,1417.78,FoodHub Express
+947,3749,297,2023-12-25,181.5,Ruchi Foods South Indian
+948,2617,245,2023-08-07,1786.64,Ruchi Curry House Multicuisine
+949,3343,298,2023-01-19,1726.72,Masala Trail Multicuisine
+950,2440,218,2023-08-11,794.03,Annapurna Kitchen Family Restaurant
+951,3806,197,2023-04-05,109.79,The Feast Factory
+952,4067,279,2023-04-27,1741.5,Ruchi Biryani Punjabi
+953,1331,167,2023-07-17,1606.15,New Foods Chinese
+954,3597,231,2023-01-18,1354.02,New Cafe North Indian
+955,1110,189,2023-02-12,1680.24,Grand Cafe Punjabi
+956,1944,250,2023-10-15,583.26,Swagath Cafe Multicuisine
+957,1804,226,2023-06-11,409.72,Tandoori Junction
+958,2642,131,2023-06-27,1590.95,Darbar Mess Pure Veg
+959,2803,167,2023-07-13,147.24,Taste of Biryani Non-Veg
+960,1102,117,2023-10-07,636.64,Annapurna Tiffins South Indian
+961,2151,197,2023-03-11,1144.83,FoodHub Express
+962,1244,206,2023-12-04,1324.77,Royal Masala Point
+963,4873,197,2023-11-15,850.31,Spice Mess Andhra
+964,1286,199,2023-06-08,461.72,Darbar Kitchen Non-Veg
+965,3403,124,2023-06-21,1419.42,Ruchi Biryani Punjabi
+966,3704,241,2023-12-05,192.84,Amma Kitchen Punjabi
+967,1956,209,2023-07-16,571.36,Spice Mess Andhra
+968,2010,209,2023-12-03,331.66,Flavour Street Kitchen
+969,4204,225,2023-09-05,821.12,Punjabi Zaika House
+970,1107,217,2023-10-06,590.45,The Feast Factory
+971,3507,220,2023-10-19,592.02,Bombay Spice Villa
+972,2406,285,2023-01-07,1584.58,Ruchi Biryani Punjabi
+973,1503,264,2023-12-08,1672.43,Darbar Mess Pure Veg
+974,2505,214,2023-09-26,594.13,Sri Tiffins Andhra
+975,1584,273,2023-12-24,421.21,New Cafe North Indian
+976,2065,205,2023-05-10,1526.09,New Cafe North Indian
+977,3197,226,2023-12-15,1726.87,Darbar Kitchen Non-Veg
+978,2150,121,2023-12-26,921.51,Flavour Street Kitchen
+979,1928,227,2023-08-15,912.65,Darbar Kitchen Non-Veg
+980,3737,101,2023-11-24,644.54,Darbar Mess Pure Veg
+981,1948,168,2023-07-12,1661.8,FoodHub Express
+982,3525,208,2023-09-05,670.03,Swagath Cafe Multicuisine
+983,2610,108,2023-09-18,875.42,Amma Tiffins South Indian
+984,4346,239,2023-01-08,500.04,Amma Biryani North Indian
+985,2994,179,2023-12-17,1774.56,Spice Kitchen Punjabi
+986,1050,283,2023-01-07,1714.33,Annapurna Tiffins South Indian
+987,1737,284,2023-02-15,1743.09,Spice Mess Punjabi
+988,2372,262,2023-07-11,823.32,Flavour Street Kitchen
+989,4980,252,2023-09-11,1720.38,Spice Mess Punjabi
+990,3321,254,2023-09-16,1295.77,Flavour Street Kitchen
+991,3609,207,2023-07-12,840.87,Grand Cafe Punjabi
+992,4491,295,2023-05-22,867.93,New Foods Chinese
+993,4079,229,2023-11-12,576.5,Darbar Restaurant North Indian
+994,2192,173,2023-04-20,275.55,Tandoori Junction
+995,1831,221,2023-12-13,294.3,FoodHub Express
+996,4582,136,2023-05-20,371.71,Curry Kings Restaurant
+997,2133,204,2023-12-18,1636.21,Royal Tiffins Multicuisine
+998,3767,119,2023-02-14,1780.45,Udupi Curry House South Indian
+999,4843,247,2023-03-20,302.49,Darbar Kitchen Non-Veg
+1000,2682,266,2023-08-20,1332.88,Spice Mess Andhra
+1001,1622,115,2023-12-08,169.86,The Feast Factory
+1002,4555,271,2023-08-25,1591.29,Amma Kitchen Punjabi
+1003,4346,126,2023-02-06,1595.75,Annapurna Kitchen Family Restaurant
+1004,2424,288,2023-08-11,1595.96,Tandoori Junction
+1005,2039,258,2023-08-01,1321.21,Royal Tiffins Multicuisine
+1006,3609,173,2023-07-09,1358.48,Grand Cafe Punjabi
+1007,2867,124,2023-08-02,772.18,Royal Eatery South Indian
+1008,4567,135,2023-11-04,772.83,Spice Mess Andhra
+1009,4586,176,2023-01-17,1203.27,Masala Trail Multicuisine
+1010,3429,264,2023-08-26,1589.67,Chef’s Delight Kitchen
+1011,2075,210,2023-04-19,631.12,Darbar Delights South Indian
+1012,2118,247,2023-12-25,217.75,Flavour Street Kitchen
+1013,1902,186,2023-01-27,147.09,Annapurna Tiffins South Indian
+1014,2694,134,2023-01-20,731.28,Punjabi Zaika House
+1015,3624,190,2023-07-12,460.7,Darbar Delights South Indian
+1016,1311,223,2023-02-19,1666.4,Ruchi Curry House Multicuisine
+1017,2777,133,2023-09-25,135.77,Punjabi Zaika House
+1018,4879,283,2023-08-04,522.32,Biryani Brothers
+1019,2860,223,2023-07-15,592.77,New Cafe North Indian
+1020,2998,273,2023-11-02,951.12,Punjabi Zaika House
+1021,2293,127,2023-12-13,1701.72,Tandoori Junction
+1022,4143,155,2023-07-09,1798.19,FoodHub Express
+1023,3151,283,2023-04-16,669.58,New Cafe North Indian
+1024,4228,210,2023-10-21,710.82,Darbar Kitchen Non-Veg
+1025,2905,270,2023-01-25,1402.15,Amma Kitchen Punjabi
+1026,2352,248,2023-06-11,1434.05,Ruchi Biryani Punjabi
+1027,3729,297,2023-05-02,979.95,Punjabi Zaika House
+1028,2762,188,2023-12-07,754.71,New Cafe North Indian
+1029,2422,137,2023-11-14,219.17,Royal Masala Point
+1030,4906,250,2023-01-23,1030.78,Spice Mess Andhra
+1031,2477,288,2023-06-12,1112.44,Royal Tiffins Multicuisine
+1032,1365,266,2023-06-02,1240.76,Sri Tiffins Andhra
+1033,1930,287,2023-06-17,491.72,Amma Delights Family Restaurant
+1034,1153,217,2023-08-08,1078.97,Urban Biryani House
+1035,1054,272,2023-02-16,1127.4,Annapurna Tiffins South Indian
+1036,3372,267,2023-02-19,593.5,Ruchi Foods South Indian
+1037,1826,153,2023-11-17,335.44,Ruchi Curry House Multicuisine
+1038,4710,266,2023-01-08,1687.72,New Cafe North Indian
+1039,4052,152,2023-04-26,1129.38,Sri Tiffins Andhra
+1040,4262,264,2023-09-02,687.03,Flavour Street Kitchen
+1041,4180,123,2023-04-27,1221.96,Royal Masala Point
+1042,2203,179,2023-11-02,620.99,Royal Eatery South Indian
+1043,4946,289,2023-03-26,1446.5,Amma Delights Family Restaurant
+1044,1601,101,2023-12-22,11383.12,Ruchi Foods Chinese
+1045,4633,253,2023-06-15,566.64,Bombay Spice Villa
+1046,4368,169,2023-12-13,995.43,Darbar Mess Pure Veg
+1047,2751,297,2023-12-27,119.58,Amma Restaurant South Indian
+1048,4213,256,2023-12-09,1580.64,Spice Mess Andhra
+1049,1681,152,2023-12-14,1197.64,Ruchi Curry House Multicuisine
+1050,2320,209,2023-05-16,1527.38,Masala Trail Multicuisine
+1051,2611,142,2023-03-02,718.5,Amma Delights Family Restaurant
+1052,2472,283,2023-11-27,1795.54,Masala Trail Multicuisine
+1053,2409,162,2023-06-01,100.48,Amma Biryani North Indian
+1054,2994,265,2023-07-06,1601.48,Amma Delights Family Restaurant
+1055,4938,288,2023-04-02,794.4,Amma Biryani North Indian
+1056,1249,293,2023-06-07,298.88,Spice Mess Punjabi
+1057,1366,236,2023-12-12,354.22,Annapurna Tiffins South Indian
+1058,4388,127,2023-08-21,362.34,Sri Tiffins Andhra
+1059,3082,288,2023-02-23,535.49,Spice Mess Punjabi
+1060,3493,296,2023-11-06,957.06,Udupi Curry House South Indian
+1061,1603,215,2023-01-21,1178.75,Royal Masala Point
+1062,4887,131,2023-09-08,366.63,Sri Tiffins Andhra
+1063,2880,132,2023-02-23,479.42,Urban Biryani House
+1064,3123,259,2023-12-23,921.17,Ruchi Foods Chinese
+1065,1814,136,2023-03-07,921.37,Royal Eatery South Indian
+1066,3330,230,2023-02-08,1758.78,Ruchi Foods Chinese
+1067,3546,270,2023-08-21,575.57,Bombay Spice Villa
+1068,1472,280,2023-12-27,1663.15,Spice Mess Andhra
+1069,3571,166,2023-09-10,1337.84,Ruchi Foods Chinese
+1070,1183,157,2023-08-23,1423.52,Swagath Cafe Multicuisine
+1071,2875,247,2023-01-23,414.8,Spice Mess Andhra
+1072,2376,114,2023-06-27,1158.76,Royal Masala Point
+1073,3096,202,2023-12-22,961.14,FoodHub Express
+1074,3595,104,2023-09-15,1579.78,Ruchi Foods South Indian
+1075,3372,145,2023-07-02,1212.06,Annapurna Kitchen Family Restaurant
+1076,1122,244,2023-12-07,1607.76,The Feast Factory
+1077,4261,220,2023-01-01,1318.34,Royal Biryani North Indian
+1078,1885,297,2023-07-21,922.47,Annapurna Kitchen Family Restaurant
+1079,1523,248,2023-01-14,159.1,Amma Tiffins South Indian
+1080,1192,148,2023-01-27,272.59,New Foods Chinese
+1081,2935,215,2023-12-16,414.18,The Feast Factory
+1082,1654,111,2023-08-18,904.73,Udupi Curry House South Indian
+1083,2542,290,2023-05-17,1336.42,Royal Tiffins Multicuisine
+1084,1519,256,2023-05-27,540.53,Royal Eatery South Indian
+1085,2347,240,2023-08-12,603.51,Ruchi Biryani Punjabi
+1086,2921,190,2023-05-25,217.43,Masala Trail Multicuisine
+1087,3372,280,2023-12-21,1439.72,Amma Biryani North Indian
+1088,1924,264,2023-01-22,1158.39,Curry Kings Restaurant
+1089,4009,204,2023-01-20,381.35,Amma Restaurant South Indian
+1090,4245,289,2023-01-26,107.26,Annapurna Kitchen Family Restaurant
+1091,1840,251,2023-01-01,1657.63,Spice Mess Andhra
+1092,3185,139,2023-01-03,275.75,Bombay Spice Villa
+1093,2120,162,2023-08-01,1733.05,Taste of Biryani Non-Veg
+1094,2702,279,2023-07-09,1676.21,New Cafe North Indian
+1095,2558,285,2023-01-11,500.81,Annapurna Kitchen Family Restaurant
+1096,4536,188,2023-03-13,1085.84,Amma Biryani North Indian
+1097,1773,293,2023-12-25,821.85,Tandoori Junction
+1098,1489,212,2023-05-05,686.92,Tandoori Junction
+1099,2276,209,2023-01-12,1514.18,Amma Biryani North Indian
+1100,4288,246,2023-08-04,1416.59,Masala Trail Multicuisine
+1101,2894,244,2023-12-05,969.24,Spice Mess Andhra
+1102,4650,144,2023-05-05,290.73,Spice Mess Punjabi
+1103,4906,141,2023-12-19,478.33,Taste of Biryani Non-Veg
+1104,4512,154,2023-12-19,1767.75,Amma Delights Family Restaurant
+1105,1988,271,2023-08-02,1386.49,Amma Tiffins South Indian
+1106,3614,104,2023-08-07,1300.6,Spice Kitchen Punjabi
+1107,2247,220,2023-01-22,418.42,Ruchi Foods Chinese
+1108,4915,237,2023-07-08,505.32,Ruchi Foods South Indian
+1109,1214,249,2023-08-03,1618.02,Curry Kings Restaurant
+1110,1543,121,2023-02-11,276.74,Taste of Biryani Non-Veg
+1111,1406,203,2023-05-26,1435.51,Spice Kitchen Punjabi
+1112,1959,213,2023-04-11,7060.14,Punjabi Zaika House
+1113,3513,148,2023-03-16,1488.4,Udupi Curry House South Indian
+1114,1015,202,2023-12-26,1307.39,Ruchi Foods Chinese
+1115,4521,250,2023-08-06,808.19,Swagath Cafe Multicuisine
+1116,4558,110,2023-10-10,1439.22,New Foods Chinese
+1117,2632,280,2023-08-26,1065.19,Darbar Mess Pure Veg
+1118,1588,291,2023-06-01,1450.87,Amma Kitchen Punjabi
+1119,4405,100,2023-09-15,1253.87,Bombay Spice Villa
+1120,4619,279,2023-03-14,1551.0,New Cafe North Indian
+1121,4187,186,2023-11-09,1023.85,Amma Biryani North Indian
+1122,4087,240,2023-01-17,834.91,Bombay Spice Villa
+1123,4007,254,2023-08-13,1547.53,Amma Tiffins South Indian
+1124,1984,142,2023-08-12,1071.55,Punjabi Zaika House
+1125,1715,236,2023-12-12,599.72,FoodHub Express
+1126,4036,232,2023-08-20,489.87,Ruchi Foods South Indian
+1127,3866,254,2023-12-07,1035.45,Amma Restaurant South Indian
+1128,2325,218,2023-07-27,1526.46,Darbar Kitchen Non-Veg
+1129,2799,283,2023-12-20,262.56,Spice Kitchen Punjabi
+1130,4120,168,2023-08-25,1565.12,Swagath Cafe Multicuisine
+1131,3215,242,2023-12-17,805.16,Amma Kitchen Punjabi
+1132,2788,161,2023-01-16,1578.74,Swagath Cafe Multicuisine
+1133,2956,290,2023-01-12,408.87,Amma Kitchen Punjabi
+1134,2606,128,2023-01-18,503.82,Annapurna Tiffins South Indian
+1135,1830,250,2023-09-04,1554.14,Taste of Biryani Non-Veg
+1136,2645,189,2023-04-11,459.96,Annapurna Tiffins South Indian
+1137,2416,152,2023-04-07,1245.75,Amma Biryani North Indian
+1138,1946,285,2023-03-23,587.71,Sri Tiffins Andhra
+1139,1314,103,2023-08-22,1540.19,Spice Mess Punjabi
+1140,3085,184,2023-10-17,641.61,Spice Kitchen Punjabi
+1141,4582,142,2023-12-13,492.25,Spice Mess Andhra
+1142,3601,232,2023-02-14,1109.9,Darbar Restaurant North Indian
+1143,2640,228,2023-02-21,570.1,Annapurna Kitchen Family Restaurant
+1144,3496,238,2023-08-27,845.01,FoodHub Express
+1145,2858,224,2023-01-12,13993.74,Amma Tiffins South Indian
+1146,2932,156,2023-02-23,861.7,Spice Mess Punjabi
+1147,1729,132,2023-08-12,1700.16,Royal Eatery South Indian
+1148,1608,194,2023-12-07,281.81,Annapurna Kitchen Family Restaurant
+1149,4204,249,2023-04-11,210.12,Annapurna Tiffins South Indian
+1150,4722,299,2023-02-06,867.69,Ruchi Biryani Punjabi
+1151,4912,166,2023-03-16,784.69,Flavour Street Kitchen
+1152,3545,260,2023-10-21,1632.0,Darbar Kitchen Non-Veg
+1153,4963,237,2023-02-25,1098.57,Amma Tiffins South Indian
+1154,3436,178,2023-08-01,1221.81,Ruchi Foods South Indian
+1155,4783,230,2023-07-23,522.22,Amma Biryani North Indian
+1156,3682,297,2023-08-07,497.14,Amma Delights Family Restaurant
+1157,2500,240,2023-10-23,1388.82,FoodHub Express
+1158,4512,114,2023-01-11,673.97,Royal Eatery South Indian
+1159,4750,286,2023-07-03,920.57,Darbar Restaurant North Indian
+1160,4891,156,2023-10-19,768.56,Amma Restaurant South Indian
+1161,2833,150,2023-06-05,247.53,Amma Restaurant South Indian
+1162,1573,151,2023-05-04,119.69,Royal Tiffins Multicuisine
+1163,1433,135,2023-07-10,1129.27,Annapurna Tiffins South Indian
+1164,4634,252,2023-12-02,468.38,Royal Eatery South Indian
+1165,1099,251,2023-12-17,1562.7,Tandoori Junction
+1166,2354,206,2023-04-13,1032.18,Swagath Cafe Multicuisine
+1167,4393,163,2023-08-27,136.51,Tandoori Junction
+1168,2099,231,2023-03-26,175.91,Masala Trail Multicuisine
+1169,3069,289,2023-08-07,153.8,Bombay Spice Villa
+1170,1805,207,2023-01-19,1482.9,Amma Tiffins South Indian
+1171,1541,139,2023-02-23,1296.52,Royal Eatery South Indian
+1172,4550,174,2023-05-26,1490.62,Flavour Street Kitchen
+1173,2591,253,2023-04-16,1695.14,Udupi Curry House South Indian
+1174,3062,159,2023-01-21,471.31,Grand Cafe Punjabi
+1175,4031,233,2023-08-01,1562.55,Sri Tiffins Andhra
+1176,4963,218,2023-09-14,1129.03,Udupi Curry House South Indian
+1177,1601,280,2023-08-08,1081.74,Swagath Cafe Multicuisine
+1178,2068,292,2023-10-06,1296.92,Amma Tiffins South Indian
+1179,3495,190,2023-08-20,1556.61,Royal Eatery South Indian
+1180,3513,126,2023-09-08,1333.5,Punjabi Zaika House
+1181,4052,292,2023-02-08,394.99,Chef’s Delight Kitchen
+1182,4792,299,2023-08-19,1467.26,Taste of Biryani Non-Veg
+1183,3914,146,2023-06-11,1523.59,New Foods Chinese
+1184,1998,250,2023-01-27,108.7,Biryani Brothers
+1185,2050,262,2023-12-10,1553.53,Royal Tiffins Multicuisine
+1186,3011,178,2023-01-26,1638.79,FoodHub Express
+1187,4230,274,2023-12-13,1386.59,Amma Restaurant South Indian
+1188,3801,127,2023-03-06,239.65,Darbar Delights South Indian
+1189,4677,254,2023-05-20,634.9,Sri Tiffins Andhra
+1190,2440,251,2023-04-22,977.33,Grand Cafe Punjabi
+1191,3854,220,2023-11-09,877.03,Annapurna Kitchen Family Restaurant
+1192,3946,205,2023-12-17,1080.79,Tandoori Junction
+1193,3235,167,2023-08-16,1618.8,Bombay Spice Villa
+1194,1750,194,2023-04-01,1235.67,Darbar Delights South Indian
+1195,1128,210,2023-08-22,1739.03,Swagath Cafe Multicuisine
+1196,1497,126,2023-07-18,149.45,Ruchi Curry House Multicuisine
+1197,2138,240,2023-01-09,743.7,Sri Tiffins Andhra
+1198,2182,282,2023-04-19,8057.85,Biryani Brothers
+1199,3213,212,2023-10-09,1738.14,Annapurna Tiffins South Indian
+1200,2563,121,2023-01-27,482.44,Biryani Brothers
+1201,1149,242,2023-03-10,1314.94,Udupi Curry House South Indian
+1202,1184,195,2023-01-07,1502.3,Spice Mess Punjabi
+1203,3200,283,2023-09-01,383.65,Amma Restaurant South Indian
+1204,1520,242,2023-08-27,482.53,Annapurna Tiffins South Indian
+1205,2627,271,2023-01-06,696.62,Royal Biryani North Indian
+1206,1639,126,2023-08-26,822.25,Amma Restaurant South Indian
+1207,3336,148,2023-02-24,1212.82,Amma Delights Family Restaurant
+1208,3269,114,2023-12-08,1151.71,Punjabi Zaika House
+1209,4986,118,2023-08-16,1311.18,Ruchi Biryani Punjabi
+1210,4932,178,2023-04-08,939.3,Ruchi Foods South Indian
+1211,1888,219,2023-10-10,555.32,Flavour Street Kitchen
+1212,1291,269,2023-04-09,704.1,Grand Cafe Punjabi
+1213,1119,167,2023-05-20,1270.33,Darbar Mess Pure Veg
+1214,2351,272,2023-01-09,8657.81,Amma Kitchen Punjabi
+1215,4098,259,2023-07-13,676.29,Urban Biryani House
+1216,4347,151,2023-02-13,407.13,Spice Kitchen Punjabi
+1217,4673,248,2023-05-22,1364.32,Annapurna Tiffins South Indian
+1218,1233,229,2023-12-09,1657.76,Amma Restaurant South Indian
+1219,4420,181,2023-08-21,875.95,Grand Cafe Punjabi
+1220,4757,230,2023-10-24,1409.48,Swagath Cafe Multicuisine
+1221,3440,297,2023-10-24,1536.69,Udupi Curry House South Indian
+1222,4354,102,2023-12-11,1355.45,Curry Kings Restaurant
+1223,3394,173,2023-12-03,1123.88,Sri Tiffins Andhra
+1224,1416,141,2023-07-17,9213.78,Ruchi Curry House Multicuisine
+1225,2934,144,2023-07-23,455.6,Spice Mess Punjabi
+1226,2234,146,2023-08-25,1177.7,Amma Biryani North Indian
+1227,4401,188,2023-06-17,1394.01,Royal Masala Point
+1228,3143,132,2023-01-20,972.91,Chef’s Delight Kitchen
+1229,4378,243,2023-05-05,666.63,Amma Tiffins South Indian
+1230,1232,126,2023-06-10,1071.66,Spice Mess Andhra
+1231,4967,173,2023-08-16,1556.21,Amma Biryani North Indian
+1232,2597,102,2023-06-20,1612.2,Udupi Curry House South Indian
+1233,2978,184,2023-07-03,1051.13,Urban Biryani House
+1234,2081,242,2023-05-02,821.37,Ruchi Foods Chinese
+1235,1717,192,2023-01-15,1254.79,Urban Biryani House
+1236,3707,284,2023-10-27,895.35,Bombay Spice Villa
+1237,2540,158,2023-05-07,640.0,Biryani Brothers
+1238,1253,249,2023-01-14,1440.09,Amma Restaurant South Indian
+1239,3233,189,2023-09-01,932.79,Royal Tiffins Multicuisine
+1240,1066,205,2023-08-23,1228.01,Urban Biryani House
+1241,3534,111,2023-07-22,1731.74,Taste of Biryani Non-Veg
+1242,1283,104,2023-01-12,773.21,Punjabi Zaika House
+1243,4584,160,2023-07-13,597.7,Urban Biryani House
+1244,1672,257,2023-12-07,772.43,Flavour Street Kitchen
+1245,3062,165,2023-11-26,1185.16,Curry Kings Restaurant
+1246,2435,246,2023-08-10,797.94,Biryani Brothers
+1247,4076,182,2023-01-07,1129.5,Spice Kitchen Punjabi
+1248,2421,137,2023-03-09,335.87,Annapurna Kitchen Family Restaurant
+1249,4188,126,2023-12-01,1193.79,Darbar Mess Pure Veg
+1250,3014,115,2023-12-23,1052.44,Taste of Biryani Non-Veg
+1251,2649,285,2023-06-22,1629.1,Ruchi Foods Chinese
+1252,3464,231,2023-12-14,1771.9,Darbar Restaurant North Indian
+1253,3556,119,2023-03-20,1554.73,Urban Biryani House
+1254,2584,271,2023-05-12,235.09,Ruchi Curry House Multicuisine
+1255,3338,153,2023-10-06,193.16,Swagath Cafe Multicuisine
+1256,4866,273,2023-11-27,747.41,Amma Tiffins South Indian
+1257,2809,119,2023-11-12,1201.03,Darbar Kitchen Non-Veg
+1258,4679,190,2023-09-22,373.78,Punjabi Zaika House
+1259,2129,196,2023-02-27,661.53,Ruchi Foods South Indian
+1260,1779,275,2023-01-19,178.55,Annapurna Kitchen Family Restaurant
+1261,4601,289,2023-01-16,1748.4,FoodHub Express
+1262,3224,164,2023-07-21,1743.33,Ruchi Curry House Multicuisine
+1263,1160,211,2023-07-15,805.79,Spice Mess Andhra
+1264,3227,124,2023-08-15,1504.03,New Foods Chinese
+1265,3658,122,2023-07-03,1415.45,The Feast Factory
+1266,1733,124,2023-01-09,1617.15,Spice Kitchen Punjabi
+1267,2416,150,2023-02-16,1076.59,Taste of Biryani Non-Veg
+1268,4639,219,2023-05-16,1712.97,Tandoori Junction
+1269,2900,280,2023-08-14,797.78,Darbar Restaurant North Indian
+1270,3081,236,2023-12-23,1205.97,Amma Biryani North Indian
+1271,4536,286,2023-07-09,1797.68,Punjabi Zaika House
+1272,4979,216,2023-02-12,1217.13,FoodHub Express
+1273,2608,107,2023-12-14,877.68,Royal Masala Point
+1274,1459,112,2023-01-27,1554.03,Darbar Kitchen Non-Veg
+1275,2351,291,2023-05-11,1732.04,Darbar Delights South Indian
+1276,3181,164,2023-12-03,1139.78,Annapurna Kitchen Family Restaurant
+1277,2498,243,2023-01-25,233.88,FoodHub Express
+1278,4980,288,2023-06-17,596.38,Swagath Cafe Multicuisine
+1279,2906,168,2023-08-09,393.84,Darbar Mess Pure Veg
+1280,1294,201,2023-08-10,793.86,Biryani Brothers
+1281,1158,155,2023-12-21,824.95,Sri Tiffins Andhra
+1282,2140,196,2023-01-24,1631.32,FoodHub Express
+1283,1962,273,2023-08-14,659.9,Darbar Mess Pure Veg
+1284,2462,140,2023-09-09,1762.99,Spice Mess Punjabi
+1285,1111,176,2023-02-02,567.02,Urban Biryani House
+1286,4977,175,2023-05-15,672.51,Urban Biryani House
+1287,2223,227,2023-12-19,1122.72,Spice Mess Punjabi
+1288,4733,288,2023-03-23,1615.76,Royal Biryani North Indian
+1289,3752,119,2023-11-04,652.51,Darbar Delights South Indian
+1290,1775,128,2023-10-21,1241.32,Spice Mess Punjabi
+1291,3284,246,2023-12-26,1074.6,Flavour Street Kitchen
+1292,4177,141,2023-08-01,989.29,Darbar Delights South Indian
+1293,4302,119,2023-12-24,366.89,Taste of Biryani Non-Veg
+1294,3902,188,2023-12-22,1144.92,Urban Biryani House
+1295,1474,101,2023-08-20,782.43,Tandoori Junction
+1296,1652,188,2023-04-26,254.41,Flavour Street Kitchen
+1297,3008,275,2023-08-19,1089.06,Ruchi Foods South Indian
+1298,1069,274,2023-09-22,254.97,Taste of Biryani Non-Veg
+1299,3429,211,2023-10-14,112.14,Taste of Biryani Non-Veg
+1300,4394,161,2023-12-03,901.91,Tandoori Junction
+1301,3273,235,2023-04-27,169.47,Royal Eatery South Indian
+1302,4457,231,2023-12-06,119.35,FoodHub Express
+1303,1283,139,2023-09-02,1308.79,Ruchi Foods South Indian
+1304,2097,179,2023-08-20,326.34,Curry Kings Restaurant
+1305,4339,130,2023-05-11,1047.32,Royal Masala Point
+1306,2599,230,2023-08-21,1614.62,Darbar Restaurant North Indian
+1307,4307,280,2023-05-07,1411.8,Tandoori Junction
+1308,2659,276,2023-02-09,389.17,Amma Tiffins South Indian
+1309,3141,198,2023-12-06,1777.8,Masala Trail Multicuisine
+1310,1484,163,2023-04-22,1610.03,New Foods Chinese
+1311,1652,244,2023-01-25,981.21,Bombay Spice Villa
+1312,4868,213,2023-03-04,626.56,Urban Biryani House
+1313,2737,132,2023-05-18,836.95,Bombay Spice Villa
+1314,3335,169,2023-08-09,812.19,Amma Biryani North Indian
+1315,1871,282,2023-08-19,1107.19,The Feast Factory
+1316,1490,152,2023-07-07,1761.64,FoodHub Express
+1317,3751,103,2023-04-14,462.73,Royal Tiffins Multicuisine
+1318,4085,140,2023-12-12,720.83,Ruchi Foods Chinese
+1319,3638,150,2023-12-07,592.4,Grand Cafe Punjabi
+1320,4357,203,2023-12-15,1779.75,Amma Kitchen Punjabi
+1321,1008,167,2023-06-04,1087.43,Spice Mess Punjabi
+1322,3172,179,2023-11-21,1015.45,Royal Masala Point
+1323,2862,187,2023-03-02,1599.46,Flavour Street Kitchen
+1324,3140,106,2023-12-19,1774.06,Chef’s Delight Kitchen
+1325,2517,211,2023-03-11,537.17,Bombay Spice Villa
+1326,3981,266,2023-08-27,445.26,Annapurna Kitchen Family Restaurant
+1327,4859,229,2023-04-03,365.22,Swagath Cafe Multicuisine
+1328,4754,211,2023-03-12,1072.82,Annapurna Kitchen Family Restaurant
+1329,1365,219,2023-05-12,1248.92,Swagath Cafe Multicuisine
+1330,3734,239,2023-12-13,853.49,The Feast Factory
+1331,2683,127,2023-01-24,220.49,Grand Cafe Punjabi
+1332,2104,291,2023-09-11,1175.78,Royal Eatery South Indian
+1333,2182,158,2023-12-23,777.7,Darbar Delights South Indian
+1334,3754,285,2023-10-26,523.94,Darbar Delights South Indian
+1335,4897,281,2023-08-03,324.34,Swagath Cafe Multicuisine
+1336,3805,148,2023-07-05,1296.64,Urban Biryani House
+1337,2182,228,2023-12-05,549.26,Spice Mess Andhra
+1338,4905,216,2023-12-22,495.73,Darbar Kitchen Non-Veg
+1339,1762,171,2023-12-18,329.95,Chef’s Delight Kitchen
+1340,1591,127,2023-10-09,1538.45,Udupi Curry House South Indian
+1341,4518,281,2023-01-05,312.24,FoodHub Express
+1342,4036,102,2023-10-01,913.44,Darbar Mess Pure Veg
+1343,2506,178,2023-03-16,1357.98,Urban Biryani House
+1344,2899,171,2023-04-23,919.41,Royal Masala Point
+1345,1616,272,2023-12-20,1144.47,The Feast Factory
+1346,4949,155,2023-12-04,1041.99,Biryani Brothers
+1347,3136,145,2023-08-22,1068.85,Grand Cafe Punjabi
+1348,4403,295,2023-11-05,1780.81,Ruchi Foods Chinese
+1349,2922,177,2023-12-22,436.34,Urban Biryani House
+1350,4852,289,2023-11-21,491.49,Biryani Brothers
+1351,3330,172,2023-01-27,1433.8,Chef’s Delight Kitchen
+1352,2666,221,2023-12-21,398.33,Grand Cafe Punjabi
+1353,3996,174,2023-11-23,969.44,FoodHub Express
+1354,2094,278,2023-08-12,318.56,Flavour Street Kitchen
+1355,4942,263,2023-12-04,1225.15,Amma Restaurant South Indian
+1356,1569,152,2023-12-17,1188.23,Chef’s Delight Kitchen
+1357,4235,110,2023-01-07,686.83,Royal Tiffins Multicuisine
+1358,2522,189,2023-03-05,534.54,Annapurna Kitchen Family Restaurant
+1359,4562,198,2023-12-06,566.97,The Feast Factory
+1360,4574,218,2023-10-21,702.2,Darbar Kitchen Non-Veg
+1361,2129,160,2023-09-17,1611.42,Royal Tiffins Multicuisine
+1362,2303,239,2023-12-09,1148.16,Ruchi Biryani Punjabi
+1363,3721,232,2023-06-18,829.57,Ruchi Foods South Indian
+1364,3713,225,2023-05-13,1245.07,Darbar Kitchen Non-Veg
+1365,1310,250,2023-11-22,858.09,Spice Kitchen Punjabi
+1366,3658,292,2023-10-18,913.94,New Cafe North Indian
+1367,1264,215,2023-12-05,209.07,Amma Tiffins South Indian
+1368,1380,175,2023-10-20,256.88,Masala Trail Multicuisine
+1369,3153,164,2023-04-17,598.81,Ruchi Biryani Punjabi
+1370,1179,259,2023-08-05,962.26,Spice Kitchen Punjabi
+1371,3428,254,2023-11-04,782.06,Darbar Kitchen Non-Veg
+1372,1108,248,2023-12-02,645.82,Darbar Mess Pure Veg
+1373,4027,260,2023-12-03,814.98,Ruchi Foods South Indian
+1374,2584,229,2023-05-22,1294.46,Annapurna Kitchen Family Restaurant
+1375,1096,182,2023-01-02,1286.0,Amma Restaurant South Indian
+1376,2816,262,2023-09-18,131.06,Udupi Curry House South Indian
+1377,3311,177,2023-03-08,1779.29,Urban Biryani House
+1378,2485,143,2023-08-20,718.04,Tandoori Junction
+1379,2734,102,2023-03-27,1686.64,Taste of Biryani Non-Veg
+1380,4056,262,2023-12-20,818.51,Grand Cafe Punjabi
+1381,3652,298,2023-08-25,1115.94,Bombay Spice Villa
+1382,4537,197,2023-08-24,255.94,Spice Mess Punjabi
+1383,2608,294,2023-08-18,826.47,Royal Tiffins Multicuisine
+1384,1061,151,2023-01-01,342.16,Bombay Spice Villa
+1385,2288,137,2023-04-17,264.13,Flavour Street Kitchen
+1386,1270,203,2023-08-08,1454.7,Darbar Mess Pure Veg
+1387,2901,259,2023-12-27,114.28,Darbar Delights South Indian
+1388,4386,128,2023-10-19,537.74,Swagath Cafe Multicuisine
+1389,3976,254,2023-08-18,1527.17,Urban Biryani House
+1390,4863,296,2023-07-05,467.81,Amma Biryani North Indian
+1391,2472,257,2023-01-21,1413.72,Amma Delights Family Restaurant
+1392,3082,123,2023-10-27,380.36,Biryani Brothers
+1393,4958,121,2023-04-01,1241.53,The Feast Factory
+1394,3831,245,2023-08-03,306.74,Swagath Cafe Multicuisine
+1395,2630,157,2023-12-05,518.09,Spice Mess Punjabi
+1396,1738,230,2023-12-04,1618.7,Darbar Restaurant North Indian
+1397,1590,164,2023-03-16,413.35,Annapurna Tiffins South Indian
+1398,2161,233,2023-09-15,292.5,Flavour Street Kitchen
+1399,1699,298,2023-03-17,410.83,Amma Tiffins South Indian
+1400,1205,236,2023-12-08,1212.9,Tandoori Junction
+1401,3099,135,2023-03-26,1110.49,Grand Cafe Punjabi
+1402,1812,110,2023-02-14,884.51,Spice Mess Andhra
+1403,2311,271,2023-02-21,1048.13,Bombay Spice Villa
+1404,3319,255,2023-08-10,1034.24,Royal Tiffins Multicuisine
+1405,1208,180,2023-10-10,378.03,Royal Eatery South Indian
+1406,1923,228,2023-05-15,160.47,Curry Kings Restaurant
+1407,2141,151,2023-06-21,875.67,Ruchi Foods South Indian
+1408,4130,176,2023-12-24,871.05,Chef’s Delight Kitchen
+1409,1966,237,2023-12-06,561.51,Royal Masala Point
+1410,3305,160,2023-07-25,1318.57,Chef’s Delight Kitchen
+1411,4060,104,2023-09-25,494.32,Spice Kitchen Punjabi
+1412,3692,146,2023-01-15,1522.9,Amma Biryani North Indian
+1413,1114,288,2023-08-25,397.82,Annapurna Tiffins South Indian
+1414,3817,135,2023-10-06,512.61,Amma Restaurant South Indian
+1415,4349,230,2023-08-26,287.93,Ruchi Biryani Punjabi
+1416,3621,279,2023-12-07,717.73,Amma Biryani North Indian
+1417,4501,194,2023-08-27,168.49,Darbar Restaurant North Indian
+1418,4707,182,2023-10-07,545.42,Ruchi Biryani Punjabi
+1419,1941,125,2023-12-20,705.94,Amma Kitchen Punjabi
+1420,1303,149,2023-05-23,611.91,Annapurna Tiffins South Indian
+1421,3923,215,2023-01-14,1797.61,Ruchi Foods South Indian
+1422,3462,105,2023-04-26,550.91,Punjabi Zaika House
+1423,1286,251,2023-08-16,1035.55,Chef’s Delight Kitchen
+1424,4895,235,2023-12-10,1224.91,Darbar Restaurant North Indian
+1425,2970,298,2023-08-09,228.65,Spice Mess Punjabi
+1426,3208,267,2023-08-04,1178.16,Amma Restaurant South Indian
+1427,4359,176,2023-10-06,361.85,Darbar Kitchen Non-Veg
+1428,2912,271,2023-07-11,296.3,Amma Biryani North Indian
+1429,3531,248,2023-12-09,1188.41,Amma Biryani North Indian
+1430,2615,123,2023-01-09,525.62,Ruchi Biryani Punjabi
+1431,2276,261,2023-01-24,881.01,Punjabi Zaika House
+1432,4351,101,2023-08-12,1126.53,Annapurna Tiffins South Indian
+1433,4217,255,2023-08-25,1135.02,Chef’s Delight Kitchen
+1434,4853,267,2023-08-18,105.26,Spice Mess Andhra
+1435,1333,209,2023-05-09,1563.81,Punjabi Zaika House
+1436,4929,199,2023-04-08,1403.81,Amma Restaurant South Indian
+1437,3404,103,2023-12-12,452.46,Ruchi Foods Chinese
+1438,1544,185,2023-09-14,1081.27,Spice Kitchen Punjabi
+1439,1045,273,2023-12-11,316.99,Udupi Curry House South Indian
+1440,1662,160,2023-12-16,1686.4,Tandoori Junction
+1441,3132,170,2023-01-11,1470.74,Ruchi Curry House Multicuisine
+1442,4291,129,2023-01-09,252.81,Chef’s Delight Kitchen
+1443,2887,211,2023-10-12,13812.73,Grand Cafe Punjabi
+1444,4501,171,2023-04-23,1344.05,Curry Kings Restaurant
+1445,1239,117,2023-12-08,1426.98,Amma Biryani North Indian
+1446,1790,298,2023-12-14,797.02,Royal Masala Point
+1447,1674,191,2023-02-25,1288.77,Ruchi Foods Chinese
+1448,1773,103,2023-12-23,1606.7,Bombay Spice Villa
+1449,4617,166,2023-04-08,1011.4,Udupi Curry House South Indian
+1450,4025,221,2023-08-05,995.07,Royal Tiffins Multicuisine
+1451,3079,101,2023-04-19,1307.17,Darbar Delights South Indian
+1452,4968,209,2023-10-16,296.2,FoodHub Express
+1453,4384,257,2023-08-03,1778.4,Amma Delights Family Restaurant
+1454,4707,132,2023-06-23,238.5,Grand Cafe Punjabi
+1455,4008,109,2023-06-02,1781.28,Spice Mess Andhra
+1456,4481,262,2023-06-13,109.3,Grand Cafe Punjabi
+1457,3987,111,2023-07-21,1499.49,Urban Biryani House
+1458,4601,143,2023-12-14,526.66,Spice Mess Andhra
+1459,2653,253,2023-08-07,1489.93,Ruchi Foods South Indian
+1460,3787,166,2023-09-12,1742.97,Darbar Kitchen Non-Veg
+1461,2134,299,2023-12-22,1273.03,New Cafe North Indian
+1462,2400,238,2023-12-21,1548.56,Spice Mess Punjabi
+1463,1707,169,2023-12-24,1503.29,Darbar Delights South Indian
+1464,1751,156,2023-12-24,123.88,Flavour Street Kitchen
+1465,1684,203,2023-05-20,640.67,Royal Tiffins Multicuisine
+1466,2898,290,2023-12-26,1462.89,Amma Kitchen Punjabi
+1467,2183,248,2023-02-05,656.55,Darbar Delights South Indian
+1468,1220,210,2023-01-23,1473.46,Spice Mess Andhra
+1469,2338,101,2023-07-21,871.09,Darbar Kitchen Non-Veg
+1470,2122,289,2023-01-18,1238.36,New Cafe North Indian
+1471,1949,128,2023-12-26,1568.21,New Cafe North Indian
+1472,4146,126,2023-03-11,529.12,Amma Delights Family Restaurant
+1473,4121,106,2023-07-25,458.29,Grand Cafe Punjabi
+1474,1815,295,2023-10-20,1555.43,Ruchi Curry House Multicuisine
+1475,3708,206,2023-05-08,764.81,Royal Tiffins Multicuisine
+1476,3035,263,2023-12-10,419.3,Royal Tiffins Multicuisine
+1477,1583,293,2023-03-18,996.17,Ruchi Foods Chinese
+1478,4808,170,2023-01-24,1115.48,Darbar Mess Pure Veg
+1479,1010,281,2023-07-11,1210.98,Annapurna Tiffins South Indian
+1480,2145,172,2023-12-19,801.14,New Foods Chinese
+1481,3609,289,2023-05-26,463.14,Spice Mess Andhra
+1482,3405,203,2023-08-07,633.4,New Cafe North Indian
+1483,4129,161,2023-07-20,1358.88,Royal Biryani North Indian
+1484,4248,276,2023-07-18,500.23,Grand Cafe Punjabi
+1485,4131,277,2023-09-27,188.05,The Feast Factory
+1486,3676,232,2023-12-24,829.24,Amma Tiffins South Indian
+1487,1998,192,2023-01-13,1149.67,Royal Eatery South Indian
+1488,1724,217,2023-11-15,763.62,Biryani Brothers
+1489,2491,122,2023-08-16,757.14,Royal Biryani North Indian
+1490,3706,211,2023-12-19,612.14,Udupi Curry House South Indian
+1491,2753,155,2023-10-14,1731.06,Darbar Kitchen Non-Veg
+1492,3263,119,2023-05-24,810.13,Curry Kings Restaurant
+1493,1758,157,2023-07-12,129.58,Biryani Brothers
+1494,3113,136,2023-06-23,1683.27,Taste of Biryani Non-Veg
+1495,3636,237,2023-01-03,1121.95,Darbar Kitchen Non-Veg
+1496,4731,130,2023-01-15,1031.59,Tandoori Junction
+1497,2638,161,2023-10-21,447.51,Annapurna Kitchen Family Restaurant
+1498,1652,164,2023-12-20,683.3,Amma Tiffins South Indian
+1499,3938,155,2023-03-26,738.27,Annapurna Tiffins South Indian
+1500,1290,290,2023-06-03,1119.82,Curry Kings Restaurant
+1501,4564,112,2023-12-23,1536.91,Darbar Restaurant North Indian
+1502,2091,200,2023-12-07,1282.92,Ruchi Foods Chinese
+1503,3178,235,2023-09-08,518.06,Curry Kings Restaurant
+1504,2831,137,2023-08-27,645.68,Spice Kitchen Punjabi
+1505,2502,287,2023-12-11,252.24,Amma Delights Family Restaurant
+1506,2303,255,2023-08-24,1241.21,Ruchi Curry House Multicuisine
+1507,3036,189,2023-01-13,513.28,Darbar Delights South Indian
+1508,2315,252,2023-11-27,1597.21,Spice Mess Andhra
+1509,2035,281,2023-12-05,1756.7,Punjabi Zaika House
+1510,2283,139,2023-08-25,1578.26,Sri Tiffins Andhra
+1511,1742,207,2023-12-09,738.39,Amma Restaurant South Indian
+1512,3691,293,2023-07-11,417.93,The Feast Factory
+1513,4670,268,2023-12-09,937.47,Darbar Restaurant North Indian
+1514,1637,128,2023-01-24,429.7,Chef’s Delight Kitchen
+1515,3488,147,2023-10-12,545.09,Darbar Kitchen Non-Veg
+1516,1140,236,2023-02-19,260.63,Udupi Curry House South Indian
+1517,1639,111,2023-08-17,809.86,Udupi Curry House South Indian
+1518,1988,151,2023-01-21,1673.67,Amma Delights Family Restaurant
+1519,4135,182,2023-05-08,1673.01,Royal Masala Point
+1520,3374,277,2023-04-14,1654.62,Annapurna Tiffins South Indian
+1521,3238,231,2023-12-03,1575.41,Royal Tiffins Multicuisine
+1522,1083,282,2023-07-04,329.64,Ruchi Biryani Punjabi
+1523,3327,203,2023-08-02,338.43,Biryani Brothers
+1524,1506,133,2023-12-22,842.93,Ruchi Foods South Indian
+1525,3220,164,2023-12-15,870.8,Bombay Spice Villa
+1526,1694,231,2023-11-18,403.61,Darbar Delights South Indian
+1527,4765,230,2023-12-15,1111.58,Royal Tiffins Multicuisine
+1528,3406,182,2023-03-16,111.52,Ruchi Curry House Multicuisine
+1529,1712,139,2023-10-02,1759.13,Ruchi Foods Chinese
+1530,1049,170,2023-12-23,508.01,Royal Biryani North Indian
+1531,4067,143,2023-01-13,738.79,Udupi Curry House South Indian
+1532,3708,279,2023-11-02,1459.66,Darbar Mess Pure Veg
+1533,4617,116,2023-07-22,499.38,Royal Eatery South Indian
+1534,2043,220,2023-01-24,355.11,Ruchi Foods South Indian
+1535,4961,179,2023-01-03,196.38,Biryani Brothers
+1536,3015,287,2023-09-13,1327.98,Tandoori Junction
+1537,1400,122,2023-11-08,718.83,Spice Mess Punjabi
+1538,2272,260,2023-08-05,1386.06,Amma Kitchen Punjabi
+1539,2885,298,2023-12-02,1190.19,Ruchi Curry House Multicuisine
+1540,2669,169,2023-01-03,1599.87,Annapurna Kitchen Family Restaurant
+1541,1807,293,2023-06-16,862.65,Amma Restaurant South Indian
+1542,4060,180,2023-04-01,1026.21,Royal Biryani North Indian
+1543,3230,270,2023-06-13,1376.12,Amma Kitchen Punjabi
+1544,4710,298,2023-08-04,1448.34,Swagath Cafe Multicuisine
+1545,4054,145,2023-08-06,1031.77,The Feast Factory
+1546,4983,141,2023-08-04,1403.37,Annapurna Kitchen Family Restaurant
+1547,2843,109,2023-08-11,1057.26,Annapurna Tiffins South Indian
+1548,3685,203,2023-06-12,337.94,Royal Eatery South Indian
+1549,4740,282,2023-07-01,198.05,Grand Cafe Punjabi
+1550,3397,163,2023-08-24,781.12,Royal Masala Point
+1551,2466,137,2023-10-08,1323.36,Amma Kitchen Punjabi
+1552,1357,124,2023-01-22,1077.56,Amma Delights Family Restaurant
+1553,4126,236,2023-08-27,1662.12,Amma Kitchen Punjabi
+1554,3673,285,2023-12-13,206.54,Annapurna Kitchen Family Restaurant
+1555,2032,170,2023-09-01,718.6,Amma Delights Family Restaurant
+1556,4614,216,2023-01-14,1635.17,Udupi Curry House South Indian
+1557,3568,227,2023-04-17,998.19,Annapurna Kitchen Family Restaurant
+1558,2189,164,2023-01-19,280.07,Ruchi Biryani Punjabi
+1559,4492,214,2023-04-09,1556.49,Udupi Curry House South Indian
+1560,1048,157,2023-09-15,310.41,Spice Kitchen Punjabi
+1561,2311,187,2023-05-17,1072.64,Grand Cafe Punjabi
+1562,2629,261,2023-12-03,104.02,Royal Eatery South Indian
+1563,4167,198,2023-08-03,456.46,Taste of Biryani Non-Veg
+1564,1944,278,2023-11-03,566.37,Darbar Kitchen Non-Veg
+1565,1949,190,2023-02-10,1463.46,Amma Tiffins South Indian
+1566,2193,191,2023-03-15,963.8,Punjabi Zaika House
+1567,3512,196,2023-03-04,1392.96,Curry Kings Restaurant
+1568,1722,277,2023-08-20,1025.72,Spice Mess Andhra
+1569,4935,189,2023-01-22,745.37,The Feast Factory
+1570,2534,259,2023-08-13,9583.65,Royal Masala Point
+1571,1056,274,2023-07-19,1637.71,Royal Masala Point
+1572,4397,106,2023-05-25,1671.14,Urban Biryani House
+1573,2104,263,2023-02-16,199.05,Amma Restaurant South Indian
+1574,2283,109,2023-08-15,242.36,Tandoori Junction
+1575,3493,216,2023-01-12,1084.98,Royal Eatery South Indian
+1576,1542,291,2023-09-02,112.18,Darbar Delights South Indian
+1577,4497,127,2023-02-02,562.23,Amma Biryani North Indian
+1578,1646,268,2023-05-17,1142.93,Biryani Brothers
+1579,3363,294,2023-07-22,1491.17,Masala Trail Multicuisine
+1580,2840,260,2023-12-02,1084.44,Spice Mess Punjabi
+1581,3658,244,2023-09-03,1260.53,Amma Kitchen Punjabi
+1582,2736,164,2023-08-02,1419.49,Darbar Restaurant North Indian
+1583,2483,135,2023-08-25,991.57,Darbar Kitchen Non-Veg
+1584,4078,289,2023-12-18,205.91,Ruchi Curry House Multicuisine
+1585,3311,277,2023-05-22,746.5,Darbar Mess Pure Veg
+1586,3219,108,2023-12-10,1179.25,Flavour Street Kitchen
+1587,4908,245,2023-08-27,1142.33,New Foods Chinese
+1588,1256,133,2023-02-15,419.46,Amma Tiffins South Indian
+1589,3049,284,2023-02-18,1552.5,Amma Restaurant South Indian
+1590,2958,172,2023-12-26,1236.89,Ruchi Foods Chinese
+1591,2550,168,2023-08-24,1514.02,Tandoori Junction
+1592,4740,143,2023-05-23,393.87,Swagath Cafe Multicuisine
+1593,4815,287,2023-09-06,449.02,The Feast Factory
+1594,3349,292,2023-09-05,582.12,Darbar Kitchen Non-Veg
+1595,4116,287,2023-10-15,500.41,Punjabi Zaika House
+1596,2741,233,2023-01-21,122.09,Bombay Spice Villa
+1597,2375,288,2023-11-06,1415.43,Annapurna Kitchen Family Restaurant
+1598,1630,100,2023-04-05,1381.66,Royal Eatery South Indian
+1599,3692,251,2023-03-14,787.2,Punjabi Zaika House
+1600,3079,149,2023-08-11,333.36,Ruchi Biryani Punjabi
+1601,3219,198,2023-05-22,314.22,Amma Tiffins South Indian
+1602,4121,185,2023-02-05,274.85,Bombay Spice Villa
+1603,1884,199,2023-10-07,1488.83,Amma Biryani North Indian
+1604,3856,173,2023-05-13,927.4,Darbar Restaurant North Indian
+1605,1050,125,2023-12-17,592.97,Royal Tiffins Multicuisine
+1606,1218,113,2023-01-09,833.59,Sri Tiffins Andhra
+1607,4981,129,2023-12-09,429.16,Spice Kitchen Punjabi
+1608,2820,151,2023-07-10,1767.75,Ruchi Biryani Punjabi
+1609,2517,217,2023-12-12,1290.56,Amma Biryani North Indian
+1610,1198,266,2023-11-10,1302.09,The Feast Factory
+1611,1540,141,2023-09-10,965.31,Tandoori Junction
+1612,4823,235,2023-04-26,1227.65,Darbar Restaurant North Indian
+1613,3618,102,2023-09-07,724.84,Udupi Curry House South Indian
+1614,4888,180,2023-12-09,429.33,Ruchi Curry House Multicuisine
+1615,3617,244,2023-07-20,1244.71,Ruchi Biryani Punjabi
+1616,1874,167,2023-07-17,1429.42,FoodHub Express
+1617,1565,242,2023-04-19,139.26,Royal Eatery South Indian
+1618,3312,137,2023-06-16,291.31,Royal Eatery South Indian
+1619,4619,133,2023-11-27,1526.79,Darbar Mess Pure Veg
+1620,4960,265,2023-10-27,977.57,Biryani Brothers
+1621,3062,119,2023-08-12,331.1,Ruchi Curry House Multicuisine
+1622,4027,214,2023-07-25,1765.02,Sri Tiffins Andhra
+1623,2180,299,2023-07-18,1675.91,FoodHub Express
+1624,2115,275,2023-08-27,864.43,Royal Biryani North Indian
+1625,3787,146,2023-04-17,1584.43,Udupi Curry House South Indian
+1626,2420,213,2023-09-01,1095.48,Sri Tiffins Andhra
+1627,3677,207,2023-03-03,1075.51,Udupi Curry House South Indian
+1628,4516,126,2023-07-14,1384.46,Darbar Restaurant North Indian
+1629,3371,263,2023-04-07,1474.74,Spice Kitchen Punjabi
+1630,1964,297,2023-07-25,1116.83,The Feast Factory
+1631,1556,286,2023-02-10,1024.47,Royal Masala Point
+1632,2457,102,2023-06-26,541.36,Amma Biryani North Indian
+1633,1587,285,2023-04-27,1476.52,Masala Trail Multicuisine
+1634,3653,281,2023-12-09,419.15,Amma Tiffins South Indian
+1635,4130,132,2023-01-09,1174.06,The Feast Factory
+1636,2649,118,2023-01-07,1368.39,Masala Trail Multicuisine
+1637,4572,229,2023-07-24,1785.5,Royal Tiffins Multicuisine
+1638,1593,271,2023-12-22,11596.65,Spice Mess Andhra
+1639,1385,102,2023-08-10,1439.83,Annapurna Kitchen Family Restaurant
+1640,2915,159,2023-11-10,959.99,Annapurna Kitchen Family Restaurant
+1641,1055,106,2023-06-09,773.24,Ruchi Biryani Punjabi
+1642,4956,144,2023-12-24,1189.75,Sri Tiffins Andhra
+1643,3331,182,2023-12-15,1025.56,Amma Delights Family Restaurant
+1644,3266,115,2023-08-14,1504.17,New Foods Chinese
+1645,2732,220,2023-08-11,1226.19,Bombay Spice Villa
+1646,3239,284,2023-04-02,106.2,Spice Mess Punjabi
+1647,3214,224,2023-01-06,923.04,Amma Biryani North Indian
+1648,1175,243,2023-07-07,897.9,FoodHub Express
+1649,1878,135,2023-12-12,304.94,Darbar Delights South Indian
+1650,3284,230,2023-06-12,178.36,Urban Biryani House
+1651,2849,141,2023-03-16,585.43,Flavour Street Kitchen
+1652,4113,107,2023-01-22,998.65,Punjabi Zaika House
+1653,3325,223,2023-05-26,1272.73,Sri Tiffins Andhra
+1654,2659,207,2023-07-07,150.17,Darbar Delights South Indian
+1655,4244,245,2023-12-11,697.5,Spice Mess Punjabi
+1656,3298,201,2023-02-13,1724.15,New Cafe North Indian
+1657,4535,121,2023-07-05,1594.86,Ruchi Biryani Punjabi
+1658,4716,282,2023-11-22,798.27,Urban Biryani House
+1659,4044,189,2023-06-13,1173.6,Biryani Brothers
+1660,4092,195,2023-01-01,1289.41,Biryani Brothers
+1661,3431,290,2023-08-08,1687.51,The Feast Factory
+1662,1821,230,2023-08-09,781.31,Darbar Mess Pure Veg
+1663,1444,235,2023-11-26,109.84,Flavour Street Kitchen
+1664,3635,268,2023-03-26,426.56,Spice Kitchen Punjabi
+1665,4112,268,2023-04-19,1016.85,Taste of Biryani Non-Veg
+1666,1981,119,2023-05-27,653.05,Annapurna Tiffins South Indian
+1667,3649,118,2023-08-08,439.54,Ruchi Curry House Multicuisine
+1668,2848,145,2023-09-13,1562.1,New Cafe North Indian
+1669,2651,299,2023-06-02,556.02,Amma Delights Family Restaurant
+1670,1486,144,2023-12-18,1479.08,Curry Kings Restaurant
+1671,1467,195,2023-09-19,212.12,Amma Biryani North Indian
+1672,4073,133,2023-08-11,897.68,New Cafe North Indian
+1673,3211,235,2023-01-03,1174.39,FoodHub Express
+1674,3352,102,2023-08-21,1778.27,Punjabi Zaika House
+1675,3208,259,2023-10-09,1766.19,Urban Biryani House
+1676,4060,258,2023-08-03,448.72,Spice Kitchen Punjabi
+1677,1956,249,2023-06-21,1297.6,New Cafe North Indian
+1678,3937,271,2023-05-08,1242.21,Urban Biryani House
+1679,2157,206,2023-01-15,745.49,Royal Masala Point
+1680,3894,262,2023-12-12,185.07,Darbar Delights South Indian
+1681,1658,273,2023-05-19,382.13,Sri Tiffins Andhra
+1682,3519,178,2023-06-12,1472.16,Tandoori Junction
+1683,2920,201,2023-03-04,1473.51,Royal Eatery South Indian
+1684,3126,276,2023-10-23,119.44,New Foods Chinese
+1685,4875,283,2023-12-22,213.73,Udupi Curry House South Indian
+1686,3183,217,2023-04-09,1646.54,Swagath Cafe Multicuisine
+1687,4582,255,2023-09-04,419.57,Ruchi Foods Chinese
+1688,2261,199,2023-09-14,1419.42,Ruchi Curry House Multicuisine
+1689,1042,142,2023-02-20,841.02,Chef’s Delight Kitchen
+1690,3274,103,2023-08-02,1197.28,Amma Tiffins South Indian
+1691,4437,117,2023-01-20,1091.99,Spice Kitchen Punjabi
+1692,2727,243,2023-07-26,692.9,New Cafe North Indian
+1693,4808,261,2023-02-05,677.05,Flavour Street Kitchen
+1694,2180,288,2023-12-15,976.44,Bombay Spice Villa
+1695,4447,170,2023-04-01,1181.62,Udupi Curry House South Indian
+1696,3557,283,2023-02-26,135.64,The Feast Factory
+1697,2006,186,2023-02-14,1569.53,Darbar Restaurant North Indian
+1698,1620,114,2023-02-12,660.27,Darbar Kitchen Non-Veg
+1699,2060,290,2023-05-17,338.5,Royal Eatery South Indian
+1700,3892,161,2023-10-05,1404.09,New Cafe North Indian
+1701,1709,272,2023-04-24,898.4,Taste of Biryani Non-Veg
+1702,1538,257,2023-01-27,295.93,Annapurna Tiffins South Indian
+1703,4521,289,2023-07-20,1516.59,Tandoori Junction
+1704,2850,145,2023-12-02,283.25,Darbar Restaurant North Indian
+1705,2055,132,2023-08-03,270.13,Amma Kitchen Punjabi
+1706,4506,256,2023-10-16,853.47,Royal Eatery South Indian
+1707,4206,256,2023-07-02,549.21,Flavour Street Kitchen
+1708,3653,113,2023-10-27,432.23,Amma Tiffins South Indian
+1709,4181,158,2023-05-14,894.03,Spice Kitchen Punjabi
+1710,3697,237,2023-08-27,1710.47,The Feast Factory
+1711,1655,284,2023-07-11,1032.44,Bombay Spice Villa
+1712,3753,242,2023-07-18,342.66,Darbar Restaurant North Indian
+1713,2225,285,2023-01-15,445.35,Spice Mess Punjabi
+1714,3580,250,2023-02-16,505.23,Spice Mess Punjabi
+1715,2568,194,2023-10-27,278.41,New Cafe North Indian
+1716,2335,280,2023-02-09,1654.67,Masala Trail Multicuisine
+1717,4596,184,2023-11-13,1141.06,Royal Biryani North Indian
+1718,2825,290,2023-12-05,1322.49,Amma Tiffins South Indian
+1719,2096,288,2023-07-20,386.93,Biryani Brothers
+1720,2954,223,2023-07-04,1466.78,Swagath Cafe Multicuisine
+1721,3711,186,2023-09-01,1031.69,Darbar Restaurant North Indian
+1722,1710,273,2023-09-12,1347.09,New Foods Chinese
+1723,3921,133,2023-01-23,1028.91,Ruchi Curry House Multicuisine
+1724,3892,194,2023-06-06,860.21,Ruchi Curry House Multicuisine
+1725,2380,244,2023-12-23,539.61,Spice Mess Andhra
+1726,2304,292,2023-06-14,811.17,Ruchi Curry House Multicuisine
+1727,1507,171,2023-02-16,1289.19,Royal Masala Point
+1728,3717,163,2023-07-17,197.24,Punjabi Zaika House
+1729,1913,160,2023-01-05,1005.65,Amma Tiffins South Indian
+1730,3623,249,2023-02-22,1684.73,Biryani Brothers
+1731,1603,225,2023-09-20,1542.89,Royal Eatery South Indian
+1732,4636,292,2023-04-19,1030.66,Taste of Biryani Non-Veg
+1733,2873,140,2023-08-13,141.74,Swagath Cafe Multicuisine
+1734,1803,231,2023-12-23,1476.77,Biryani Brothers
+1735,4287,243,2023-07-11,1691.6,Annapurna Kitchen Family Restaurant
+1736,4300,106,2023-06-25,994.19,Royal Tiffins Multicuisine
+1737,1232,166,2023-12-08,450.85,Chef’s Delight Kitchen
+1738,1696,169,2023-06-17,1373.59,New Cafe North Indian
+1739,3103,204,2023-08-24,1133.46,Ruchi Biryani Punjabi
+1740,2596,279,2023-02-05,1635.09,Ruchi Foods Chinese
+1741,2738,275,2023-02-21,484.79,Tandoori Junction
+1742,2182,253,2023-01-26,1127.84,Masala Trail Multicuisine
+1743,3387,208,2023-11-18,480.13,Masala Trail Multicuisine
+1744,1329,271,2023-01-02,999.55,Flavour Street Kitchen
+1745,1630,250,2023-12-07,282.15,Masala Trail Multicuisine
+1746,1165,171,2023-10-26,1343.53,Ruchi Biryani Punjabi
+1747,2382,251,2023-01-12,1110.95,FoodHub Express
+1748,3871,129,2023-12-07,225.31,Amma Restaurant South Indian
+1749,4465,120,2023-12-01,223.18,Amma Biryani North Indian
+1750,3561,178,2023-08-23,1180.29,Bombay Spice Villa
+1751,4019,113,2023-09-09,1609.64,Flavour Street Kitchen
+1752,4905,296,2023-04-16,941.03,Ruchi Foods South Indian
+1753,4945,128,2023-08-20,1037.02,Amma Restaurant South Indian
+1754,1056,233,2023-08-25,1215.79,Taste of Biryani Non-Veg
+1755,4608,205,2023-01-20,1067.81,Royal Eatery South Indian
+1756,3178,274,2023-12-23,476.16,Bombay Spice Villa
+1757,2432,204,2023-09-12,648.46,Masala Trail Multicuisine
+1758,1514,142,2023-08-27,547.4,Taste of Biryani Non-Veg
+1759,2967,163,2023-12-01,374.23,Taste of Biryani Non-Veg
+1760,4821,228,2023-11-24,847.19,Biryani Brothers
+1761,3076,205,2023-07-06,755.26,The Feast Factory
+1762,3255,150,2023-01-07,783.69,Amma Biryani North Indian
+1763,2135,111,2023-10-10,1757.87,Annapurna Kitchen Family Restaurant
+1764,1938,132,2023-12-11,655.93,Darbar Kitchen Non-Veg
+1765,1535,241,2023-11-26,1070.67,Ruchi Foods South Indian
+1766,3128,146,2023-10-01,439.69,Royal Masala Point
+1767,1779,162,2023-03-17,1244.32,Darbar Restaurant North Indian
+1768,4811,239,2023-12-14,1085.44,Darbar Restaurant North Indian
+1769,4321,162,2023-12-11,451.55,Annapurna Kitchen Family Restaurant
+1770,1022,272,2023-03-03,1089.89,New Cafe North Indian
+1771,3561,132,2023-12-11,1234.09,Curry Kings Restaurant
+1772,3509,195,2023-03-16,1398.42,Biryani Brothers
+1773,1693,102,2023-12-07,983.7,Spice Mess Andhra
+1774,4192,105,2023-12-03,578.02,Flavour Street Kitchen
+1775,1410,232,2023-12-08,170.45,Amma Tiffins South Indian
+1776,1353,147,2023-04-20,366.69,Swagath Cafe Multicuisine
+1777,3441,176,2023-08-08,478.36,Annapurna Tiffins South Indian
+1778,3645,251,2023-11-02,1538.83,Darbar Restaurant North Indian
+1779,4208,249,2023-02-26,1461.76,Amma Delights Family Restaurant
+1780,1056,106,2023-03-02,261.67,Amma Kitchen Punjabi
+1781,4432,259,2023-05-05,1339.97,Royal Biryani North Indian
+1782,2722,236,2023-07-03,344.38,Amma Tiffins South Indian
+1783,3407,252,2023-09-24,1648.42,Darbar Kitchen Non-Veg
+1784,1853,251,2023-08-04,8350.16,Amma Tiffins South Indian
+1785,3054,120,2023-01-14,898.5,Taste of Biryani Non-Veg
+1786,3983,108,2023-12-10,424.07,Flavour Street Kitchen
+1787,3669,239,2023-08-03,1371.63,The Feast Factory
+1788,3640,121,2023-04-19,477.84,Tandoori Junction
+1789,1071,163,2023-05-20,221.96,Darbar Delights South Indian
+1790,3993,105,2023-09-12,1064.87,Darbar Kitchen Non-Veg
+1791,4015,164,2023-08-10,1331.84,Sri Tiffins Andhra
+1792,2470,200,2023-11-20,844.88,Spice Kitchen Punjabi
+1793,3361,250,2023-12-09,289.51,New Cafe North Indian
+1794,1331,210,2023-01-09,397.03,FoodHub Express
+1795,3388,197,2023-08-24,231.0,Annapurna Tiffins South Indian
+1796,2164,187,2023-12-04,689.54,The Feast Factory
+1797,2657,215,2023-08-25,1071.18,Amma Kitchen Punjabi
+1798,4216,174,2023-06-02,808.63,Biryani Brothers
+1799,4948,275,2023-07-08,1030.5,New Foods Chinese
+1800,1243,262,2023-12-12,252.66,Amma Biryani North Indian
+1801,1492,295,2023-01-20,1073.67,Tandoori Junction
+1802,3813,175,2023-11-15,1513.3,Ruchi Curry House Multicuisine
+1803,4175,195,2023-11-22,1412.49,Taste of Biryani Non-Veg
+1804,4683,288,2023-01-17,1240.4,Darbar Restaurant North Indian
+1805,3506,196,2023-10-12,286.78,New Cafe North Indian
+1806,4345,245,2023-09-04,1229.13,The Feast Factory
+1807,1711,290,2023-10-20,1755.38,Royal Eatery South Indian
+1808,1833,243,2023-10-04,1797.51,Ruchi Foods Chinese
+1809,4043,292,2023-08-23,385.49,Urban Biryani House
+1810,4319,104,2023-05-13,6846.94,Taste of Biryani Non-Veg
+1811,1362,227,2023-02-25,1399.45,Amma Restaurant South Indian
+1812,4123,148,2023-12-12,487.9,Ruchi Biryani Punjabi
+1813,3588,198,2023-11-11,571.57,Royal Eatery South Indian
+1814,3816,246,2023-11-14,170.97,Udupi Curry House South Indian
+1815,4211,275,2023-12-26,430.14,Royal Eatery South Indian
+1816,4064,193,2023-12-10,1286.76,Darbar Delights South Indian
+1817,3969,266,2023-03-18,1694.17,Bombay Spice Villa
+1818,1472,195,2023-08-27,281.15,Swagath Cafe Multicuisine
+1819,1973,172,2023-06-14,213.39,Ruchi Curry House Multicuisine
+1820,3323,142,2023-07-03,1770.31,Royal Biryani North Indian
+1821,3488,103,2023-01-19,1130.24,Darbar Delights South Indian
+1822,2266,223,2023-12-20,1669.49,Amma Delights Family Restaurant
+1823,2389,173,2023-08-27,1114.19,Bombay Spice Villa
+1824,4977,148,2023-10-11,872.1,Udupi Curry House South Indian
+1825,1538,297,2023-01-04,403.79,Chef’s Delight Kitchen
+1826,2373,136,2023-11-12,233.89,Bombay Spice Villa
+1827,1749,214,2023-07-15,947.71,Chef’s Delight Kitchen
+1828,4932,276,2023-01-02,1383.34,Royal Biryani North Indian
+1829,2725,128,2023-08-06,767.88,Darbar Restaurant North Indian
+1830,2641,223,2023-01-15,1684.18,Curry Kings Restaurant
+1831,2839,107,2023-07-15,1594.53,Curry Kings Restaurant
+1832,4432,166,2023-12-13,936.88,Grand Cafe Punjabi
+1833,1226,135,2023-07-10,551.51,Urban Biryani House
+1834,4845,242,2023-12-11,205.64,Royal Masala Point
+1835,1541,299,2023-12-12,138.64,Darbar Kitchen Non-Veg
+1836,2946,145,2023-08-26,435.94,Masala Trail Multicuisine
+1837,3037,102,2023-05-05,1422.0,Annapurna Tiffins South Indian
+1838,4331,280,2023-10-17,471.31,Amma Biryani North Indian
+1839,2610,250,2023-10-11,1211.89,FoodHub Express
+1840,4363,117,2023-10-15,1576.27,New Cafe North Indian
+1841,4872,222,2023-06-12,1715.66,Darbar Restaurant North Indian
+1842,4639,289,2023-10-16,723.1,Amma Kitchen Punjabi
+1843,1029,210,2023-05-13,113.57,New Foods Chinese
+1844,1731,171,2023-04-09,1268.38,Taste of Biryani Non-Veg
+1845,4166,296,2023-08-03,291.64,Royal Eatery South Indian
+1846,3874,148,2023-08-12,1520.71,Darbar Restaurant North Indian
+1847,2286,293,2023-02-20,218.83,Royal Biryani North Indian
+1848,4084,170,2023-06-17,1592.98,Spice Mess Punjabi
+1849,4491,233,2023-09-23,743.1,Ruchi Curry House Multicuisine
+1850,2678,182,2023-10-15,1235.45,Flavour Street Kitchen
+1851,1395,269,2023-09-03,1551.17,Curry Kings Restaurant
+1852,1997,294,2023-12-15,1052.43,Ruchi Foods Chinese
+1853,3294,226,2023-05-14,392.09,Amma Tiffins South Indian
+1854,3112,240,2023-12-02,413.67,Biryani Brothers
+1855,4198,147,2023-12-19,477.15,Chef’s Delight Kitchen
+1856,2576,167,2023-12-10,373.28,Udupi Curry House South Indian
+1857,2066,111,2023-04-05,513.66,Flavour Street Kitchen
+1858,1253,187,2023-01-13,1297.77,Royal Tiffins Multicuisine
+1859,2416,204,2023-11-27,117.76,Swagath Cafe Multicuisine
+1860,3824,236,2023-01-05,1687.2,Chef’s Delight Kitchen
+1861,2904,259,2023-09-08,555.74,FoodHub Express
+1862,3423,183,2023-01-08,1401.87,Flavour Street Kitchen
+1863,4846,274,2023-12-03,109.41,Tandoori Junction
+1864,1448,215,2023-03-09,187.47,New Foods Chinese
+1865,2431,136,2023-04-17,394.8,Amma Kitchen Punjabi
+1866,4753,102,2023-08-23,1778.81,Amma Kitchen Punjabi
+1867,1313,207,2023-01-12,1108.51,Annapurna Tiffins South Indian
+1868,3222,278,2023-11-02,921.13,Urban Biryani House
+1869,3398,231,2023-09-06,1481.07,Swagath Cafe Multicuisine
+1870,3556,125,2023-08-04,254.86,Punjabi Zaika House
+1871,2120,218,2023-12-20,1129.08,Amma Delights Family Restaurant
+1872,3194,119,2023-12-08,1092.57,New Cafe North Indian
+1873,1489,210,2023-12-03,1027.78,Annapurna Tiffins South Indian
+1874,2330,185,2023-02-04,1552.18,Darbar Kitchen Non-Veg
+1875,2512,100,2023-01-27,114.2,Curry Kings Restaurant
+1876,3555,179,2023-04-18,512.37,Spice Kitchen Punjabi
+1877,2346,173,2023-12-23,1500.98,Darbar Kitchen Non-Veg
+1878,4540,210,2023-07-25,1043.53,New Foods Chinese
+1879,4339,179,2023-03-17,911.7,Biryani Brothers
+1880,3017,278,2023-12-22,360.09,Ruchi Curry House Multicuisine
+1881,1456,135,2023-07-25,1317.48,Ruchi Biryani Punjabi
+1882,4160,295,2023-03-09,470.62,Spice Mess Andhra
+1883,1635,178,2023-11-12,1054.78,Darbar Mess Pure Veg
+1884,4638,171,2023-08-07,1738.6,Sri Tiffins Andhra
+1885,3609,251,2023-07-24,1023.71,Grand Cafe Punjabi
+1886,3299,297,2023-08-25,164.97,Ruchi Curry House Multicuisine
+1887,4088,152,2023-06-13,1079.19,Udupi Curry House South Indian
+1888,4092,291,2023-06-12,1674.09,Ruchi Foods Chinese
+1889,2502,104,2023-12-16,806.18,Udupi Curry House South Indian
+1890,1624,245,2023-01-16,279.54,Amma Tiffins South Indian
+1891,4365,118,2023-12-10,479.37,Masala Trail Multicuisine
+1892,2307,132,2023-01-17,543.92,New Foods Chinese
+1893,3837,203,2023-02-23,304.29,Amma Kitchen Punjabi
+1894,3080,286,2023-10-16,1424.61,Darbar Kitchen Non-Veg
+1895,4604,165,2023-12-22,156.2,Amma Restaurant South Indian
+1896,4624,277,2023-02-23,1589.07,Udupi Curry House South Indian
+1897,2783,196,2023-09-25,441.72,Annapurna Kitchen Family Restaurant
+1898,3818,176,2023-11-04,590.64,Chef’s Delight Kitchen
+1899,4758,275,2023-01-24,1381.88,Flavour Street Kitchen
+1900,1332,109,2023-01-19,978.42,Royal Biryani North Indian
+1901,4641,154,2023-01-19,217.44,New Cafe North Indian
+1902,1769,162,2023-10-27,388.7,Royal Biryani North Indian
+1903,1467,240,2023-10-18,1103.2,Darbar Delights South Indian
+1904,1515,103,2023-04-12,264.93,Curry Kings Restaurant
+1905,4946,136,2023-08-10,929.05,Darbar Kitchen Non-Veg
+1906,4210,118,2023-01-14,262.77,Amma Kitchen Punjabi
+1907,1999,144,2023-01-20,195.92,Ruchi Foods South Indian
+1908,4716,117,2023-03-16,754.14,Amma Delights Family Restaurant
+1909,4309,240,2023-01-15,328.06,Udupi Curry House South Indian
+1910,3608,139,2023-12-12,911.42,Taste of Biryani Non-Veg
+1911,2777,143,2023-02-14,1491.71,Royal Tiffins Multicuisine
+1912,1177,130,2023-11-18,1345.71,Bombay Spice Villa
+1913,3760,139,2023-12-07,1461.13,Amma Tiffins South Indian
+1914,2287,190,2023-12-21,1782.79,Annapurna Kitchen Family Restaurant
+1915,1961,202,2023-01-07,216.81,Bombay Spice Villa
+1916,2331,235,2023-12-10,1542.93,Annapurna Kitchen Family Restaurant
+1917,4564,126,2023-08-14,1379.91,Udupi Curry House South Indian
+1918,4808,242,2023-11-13,1584.54,Flavour Street Kitchen
+1919,2969,125,2023-11-14,276.32,Annapurna Kitchen Family Restaurant
+1920,4673,250,2023-06-03,667.3,Urban Biryani House
+1921,3025,120,2023-10-27,851.72,Annapurna Kitchen Family Restaurant
+1922,1961,161,2023-01-19,1082.88,Spice Mess Andhra
+1923,3042,200,2023-03-25,265.76,Annapurna Tiffins South Indian
+1924,1652,219,2023-05-16,1007.37,Flavour Street Kitchen
+1925,3883,233,2023-01-25,1448.25,Bombay Spice Villa
+1926,2695,115,2023-12-10,372.56,Biryani Brothers
+1927,2123,150,2023-07-22,1010.09,Amma Tiffins South Indian
+1928,4508,272,2023-12-16,197.78,Amma Delights Family Restaurant
+1929,3287,210,2023-02-23,1716.26,Sri Tiffins Andhra
+1930,1318,194,2023-11-16,1274.34,New Cafe North Indian
+1931,4240,269,2023-08-26,1728.5,Amma Restaurant South Indian
+1932,4390,291,2023-08-01,1789.27,Bombay Spice Villa
+1933,2368,275,2023-01-10,490.59,Darbar Mess Pure Veg
+1934,2464,134,2023-10-07,784.83,FoodHub Express
+1935,4933,248,2023-06-08,569.35,Royal Biryani North Indian
+1936,2739,268,2023-08-13,1484.06,Grand Cafe Punjabi
+1937,4219,175,2023-01-08,594.23,Urban Biryani House
+1938,3889,283,2023-02-09,377.63,Royal Biryani North Indian
+1939,1640,210,2023-01-22,1663.26,Ruchi Foods South Indian
+1940,2153,209,2023-05-11,1449.19,Amma Delights Family Restaurant
+1941,2528,129,2023-01-04,520.13,Annapurna Tiffins South Indian
+1942,3412,165,2023-12-10,1599.45,Amma Delights Family Restaurant
+1943,2122,123,2023-08-20,268.8,Urban Biryani House
+1944,2313,287,2023-10-16,1244.72,Ruchi Biryani Punjabi
+1945,1537,234,2023-12-05,1431.99,Ruchi Biryani Punjabi
+1946,1993,298,2023-12-04,1519.97,Biryani Brothers
+1947,2920,281,2023-10-01,850.11,Spice Mess Punjabi
+1948,2714,154,2023-08-19,1421.32,Annapurna Kitchen Family Restaurant
+1949,4574,184,2023-02-19,1786.39,FoodHub Express
+1950,1333,211,2023-12-16,1527.01,Ruchi Curry House Multicuisine
+1951,1658,156,2023-06-23,208.72,Ruchi Biryani Punjabi
+1952,3446,157,2023-05-13,323.36,Masala Trail Multicuisine
+1953,4320,170,2023-12-19,1796.71,Spice Mess Andhra
+1954,1178,235,2023-08-10,981.32,Bombay Spice Villa
+1955,4210,167,2023-11-17,236.18,Ruchi Foods Chinese
+1956,4906,150,2023-09-12,1168.4,Amma Tiffins South Indian
+1957,4658,173,2023-08-01,1165.01,Taste of Biryani Non-Veg
+1958,4549,150,2023-05-22,1361.61,Amma Tiffins South Indian
+1959,3446,245,2023-01-10,404.54,Royal Masala Point
+1960,3351,280,2023-09-07,1227.7,Royal Masala Point
+1961,1370,144,2023-09-03,1781.27,Royal Eatery South Indian
+1962,4546,235,2023-09-08,913.31,Bombay Spice Villa
+1963,1219,285,2023-08-18,14623.82,New Cafe North Indian
+1964,4913,171,2023-06-12,1117.25,Darbar Mess Pure Veg
+1965,1656,101,2023-08-11,1421.64,New Cafe North Indian
+1966,1071,208,2023-07-14,453.06,Ruchi Foods Chinese
+1967,4533,119,2023-10-23,381.5,Darbar Mess Pure Veg
+1968,3076,267,2023-06-02,167.67,Punjabi Zaika House
+1969,3957,154,2023-07-09,120.35,Udupi Curry House South Indian
+1970,2009,198,2023-02-06,1018.75,Flavour Street Kitchen
+1971,4751,251,2023-05-16,598.73,Ruchi Foods South Indian
+1972,3000,257,2023-02-22,1386.17,Masala Trail Multicuisine
+1973,2168,157,2023-05-12,1205.75,Biryani Brothers
+1974,3546,163,2023-04-21,1789.83,New Cafe North Indian
+1975,1805,207,2023-12-25,280.64,Darbar Mess Pure Veg
+1976,1583,235,2023-01-20,1118.14,Amma Biryani North Indian
+1977,4787,182,2023-05-12,520.31,Taste of Biryani Non-Veg
+1978,4386,279,2023-10-03,332.72,Masala Trail Multicuisine
+1979,4457,239,2023-12-16,944.76,Ruchi Curry House Multicuisine
+1980,4233,183,2023-04-13,753.48,Ruchi Foods South Indian
+1981,1419,208,2023-03-13,471.95,Spice Kitchen Punjabi
+1982,1588,204,2023-07-24,1031.57,Royal Masala Point
+1983,1442,164,2023-12-03,654.33,Punjabi Zaika House
+1984,1586,291,2023-09-18,852.19,Ruchi Foods Chinese
+1985,3607,265,2023-11-01,1137.17,Royal Tiffins Multicuisine
+1986,4609,159,2023-06-25,306.35,Spice Kitchen Punjabi
+1987,4919,271,2023-11-04,552.99,Ruchi Foods South Indian
+1988,2644,121,2023-08-02,328.72,Ruchi Foods Chinese
+1989,3679,141,2023-10-24,160.41,Darbar Delights South Indian
+1990,2464,135,2023-12-11,1743.49,Amma Biryani North Indian
+1991,3823,244,2023-12-08,1428.35,New Foods Chinese
+1992,4839,175,2023-07-26,1613.32,Bombay Spice Villa
+1993,2124,243,2023-01-22,581.37,Annapurna Kitchen Family Restaurant
+1994,3214,281,2023-12-21,1785.29,Royal Eatery South Indian
+1995,4429,178,2023-04-05,371.04,Spice Mess Andhra
+1996,2370,299,2023-10-07,1258.56,Ruchi Curry House Multicuisine
+1997,2373,145,2023-01-07,1079.76,Amma Kitchen Punjabi
+1998,2306,103,2023-07-13,698.38,Ruchi Curry House Multicuisine
+1999,4874,191,2023-08-22,476.01,Spice Kitchen Punjabi
+2000,3894,141,2023-12-23,308.06,Urban Biryani House
+516,1737,104,2023-09-23,171.56,Royal Eatery South Indian
+1238,1253,249,2023-01-14,1440.09,Amma Restaurant South Indian
+1603,1884,199,2023-10-07,1488.83,Amma Biryani North Indian
+1884,4638,171,2023-08-07,1738.6,Sri Tiffins Andhra
+448,4121,130,2023-12-07,1281.99,Amma Delights Family Restaurant
+1994,3214,281,2023-12-21,1785.29,Royal Eatery South Indian
+673,1166,147,2023-12-23,415.03,Amma Restaurant South Indian
+1225,2934,144,2023-07-23,455.6,Spice Mess Punjabi
+370,3652,244,2023-02-02,986.74,Amma Biryani North Indian
+1321,1008,167,2023-06-04,1087.43,Spice Mess Punjabi
+1191,3854,220,2023-11-09,877.03,Annapurna Kitchen Family Restaurant
+580,2893,137,2023-01-10,190.05,Darbar Restaurant North Indian
+773,4374,160,2023-02-24,1783.04,Biryani Brothers
+1130,4120,168,2023-08-25,1565.12,Swagath Cafe Multicuisine
+279,2571,249,2023-02-05,458.52,Bombay Spice Villa
+162,1797,157,2023-12-27,236.19,Annapurna Tiffins South Indian
+729,1740,254,2023-11-04,666.26,Ruchi Biryani Punjabi
+1457,3987,111,2023-07-21,1499.49,Urban Biryani House
+47,3459,285,2023-08-06,160.61,Chef’s Delight Kitchen
+1774,4192,105,2023-12-03,578.02,Flavour Street Kitchen
+404,2484,285,2023-07-27,398.28,New Foods Chinese
+1727,1507,171,2023-02-16,1289.19,Royal Masala Point
+1826,2373,136,2023-11-12,233.89,Bombay Spice Villa
+56,2657,178,2023-01-07,1156.28,New Foods Chinese
+1347,3136,145,2023-08-22,1068.85,Grand Cafe Punjabi
+1641,1055,106,2023-06-09,773.24,Ruchi Biryani Punjabi
+1859,2416,204,2023-11-27,117.76,Swagath Cafe Multicuisine
+661,2183,195,2023-12-25,1610.65,Udupi Curry House South Indian
+816,1378,147,2023-08-08,1016.75,Urban Biryani House
+1093,2120,162,2023-08-01,1733.05,Taste of Biryani Non-Veg
+1465,1684,203,2023-05-20,640.67,Royal Tiffins Multicuisine
+1731,1603,225,2023-09-20,1542.89,Royal Eatery South Indian
+1670,1486,144,2023-12-18,1479.08,Curry Kings Restaurant
+631,4060,175,2023-12-07,1171.11,Spice Kitchen Punjabi
+1384,1061,151,2023-01-01,342.16,Bombay Spice Villa
+960,1102,117,2023-10-07,636.64,Annapurna Tiffins South Indian
+34,4158,143,2023-08-01,1064.57,Amma Restaurant South Indian
+1661,3431,290,2023-08-08,1687.51,The Feast Factory
+885,1364,207,2023-05-27,1106.91,Royal Tiffins Multicuisine
+447,2314,146,2023-03-02,471.4,Udupi Curry House South Indian
+502,4322,224,2023-11-24,313.93,Curry Kings Restaurant
+1570,2534,259,2023-08-13,9583.65,Royal Masala Point
+152,2838,239,2023-10-10,1484.07,Flavour Street Kitchen
+115,1773,236,2023-08-21,359.33,Chef’s Delight Kitchen
+1635,4130,132,2023-01-09,1174.06,The Feast Factory
+624,4763,234,2023-12-07,1285.67,Flavour Street Kitchen
+1002,4555,271,2023-08-25,1591.29,Amma Kitchen Punjabi
+461,3598,131,2023-09-14,834.8,Masala Trail Multicuisine
+882,3704,113,2023-12-02,1467.71,Darbar Restaurant North Indian
+1770,1022,272,2023-03-03,1089.89,New Cafe North Indian
+1761,3076,205,2023-07-06,755.26,The Feast Factory
+1353,3996,174,2023-11-23,969.44,FoodHub Express
+82,2274,141,2023-06-22,1307.27,Amma Restaurant South Indian
+1668,2848,145,2023-09-13,1562.1,New Cafe North Indian
+1984,1586,291,2023-09-18,852.19,Ruchi Foods Chinese
+1156,3682,297,2023-08-07,497.14,Amma Delights Family Restaurant
+753,1671,127,2023-12-01,893.16,Grand Cafe Punjabi
+1147,1729,132,2023-08-12,1700.16,Royal Eatery South Indian
+1781,4432,259,2023-05-05,1339.97,Royal Biryani North Indian
+163,4484,298,2023-03-01,339.65,Royal Eatery South Indian
